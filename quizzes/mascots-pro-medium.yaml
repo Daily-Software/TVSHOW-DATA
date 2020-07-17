@@ -1,0 +1,235 @@
+id: mascots-pro-medium
+title: 'Pro Mascot Quiz - Medium'
+questions:
+    -
+        text: 'What NFL team has a mascot named "Poe"?'
+        options:
+            -
+                correct: false
+                value: 'NFL Carolina Panthers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Carolina_Panthers.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: false
+                value: 'NFL New England Patriots'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_NewEngland_Patriots.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: true
+                value: 'NFL Baltimore Ravens'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Baltimore_Ravens.png'
+                detail: 'First down!'
+            -
+                correct: false
+                value: 'NFL Green Bay Packers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_GreenBay_Packers.png'
+                detail: 'Loss of yardage.'
+    -
+        text: 'What NBA team has a mascot named "The Coyote"?'
+        options:
+            -
+                correct: false
+                value: 'NBA Oklahoma City Thunder'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_OklahomaCity_Thunder.png'
+                detail: 'Shot blocked.'
+            -
+                correct: false
+                value: 'NBA Phoenix Suns'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Phoenix_Suns.png'
+                detail: 'Shot blocked.'
+            -
+                correct: false
+                value: 'NBA Portland Trail Blazers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Portland_TrailBlazers.png'
+                detail: 'Shot blocked.'
+            -
+                correct: true
+                value: 'NBA SanAntonio Spurs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_SanAntonio_Spurs.png'
+                detail: 'Swish!'
+    -
+        text: 'What NHL team has a mascot named "Stormy"?'
+        options:
+            -
+                correct: true
+                value: 'NHL Carolina Hurricanes'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Carolina_Hurricanes.png'
+                detail: 'Goal!'
+            -
+                correct: false
+                value: 'NHL Colorado Avalanche'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Colorado_Avalanche.png'
+                detail: 'Called for icing.'
+            -
+                correct: false
+                value: 'NHL New York Islanders'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_NewYork_Islanders.png'
+                detail: 'Called for icing.'
+            -
+                correct: false
+                value: 'NHL Minnesota Wild'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
+                detail: 'Called for icing.'
+    -
+        text: 'What NBA team has a mascot named "Champ"?'
+        options:
+            -
+                correct: false
+                value: 'NBA Cleveland Cavaliers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Cleveland_Cavaliers.png'
+                detail: 'Called for traveling.'
+            -
+                correct: true
+                value: 'NBA Dallas Mavericks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Dallas_Mavericks.png'
+                detail: 'Baseline 3 pointer!'
+            -
+                correct: false
+                value: 'NBA Golden State Warriors'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_GoldenState_Warriors.png'
+                detail: 'Called for traveling.'
+            -
+                correct: false
+                value: 'NBA Los Angeles Lakers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_LosAngeles_Lakers.png'
+                detail: 'Called for traveling.'
+    -
+        text: 'What NFL team has a mascot named "Rowdy"?'
+        options:
+            -
+                correct: false
+                value: 'NFL Detroit Lions'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Detroit_Lions.png'
+                detail: 'Missed kick.'
+            -
+                correct: false
+                value: 'NFL Philadelphia Eagles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Philadelphia_Eagles.png'
+                detail: 'Missed kick.'
+            -
+                correct: false
+                value: 'NFL Denver Broncos'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Denver_Broncos.png'
+                detail: 'Missed kick.'
+            -
+                correct: true
+                value: 'NFL Dallas Cowboys'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Dallas_Cowboys.png'
+                detail: 'Field Goal!'
+    -
+        text: 'What NHL team has a mascot named "Nordy"?'
+        options:
+            -
+                correct: false
+                value: 'NHL Buffalo Sabres'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Buffalo_Sabres.png'
+                detail: 'Penalty box.'
+            -
+                correct: false
+                value: 'NHL Arizona Coyotes'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Arizona_Coyotes.png'
+                detail: 'Penalty box.'
+            -
+                correct: true
+                value: 'NHL Minnesota Wild'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
+                detail: 'Power play!'
+            -
+                correct: false
+                value: 'NHL Florida Panthers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Florida_Panthers.png'
+                detail: 'Penalty box.'
+    -
+        text: 'What MLB team has a mascot named "Ace"?'
+        options:
+            -
+                correct: false
+                value: 'MLB Los Angeles Angels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Angels.png'
+                detail: 'Swing and a miss.'
+            -
+                correct: true
+                value: 'MLB Toronto Blue Jays'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Toronto_BlueJays.png'
+                detail: 'Base hit!'
+            -
+                correct: false
+                value: 'MLB Texas Rangers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Texas_Rangers.png'
+                detail: 'Swing and a miss.'
+            -
+                correct: false
+                value: 'MLB Los Angeles Dodgers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Dodgers.png'
+                detail: 'Swing and a miss.'
+    -
+        text: 'What NHL team has a mascot named "Wild Wing"?'
+        options:
+            -
+                correct: false
+                value: 'NHL New York Islanders'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_NewYork_Islanders.png'
+                detail: 'Missed shot.'
+            -
+                correct: false
+                value: 'NHL Pittsburgh Penguins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Pittsburgh_Penguins.png'
+                detail: 'Missed shot.'
+            -
+                correct: true
+                value: 'NHL Anaheim Ducks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Anaheim_Ducks.png'
+                detail: 'Slap shot to back of the net!'
+            -
+                correct: false
+                value: 'NHL Minnesota Wild'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
+                detail: 'Missed shot.'
+    -
+        text: 'What MLB team has a mascot named "Wally the Green Monster"?'
+        options:
+            -
+                correct: false
+                value: 'MLB Oakland Athletics'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Oakland_Athletics.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'MLB New York Yankees'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_NewYork_Yankees.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'MLB Los Angeles Angels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Angels.png'
+                detail: 'Foul ball.'
+            -
+                correct: true
+                value: 'MLB Boston Red Sox'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Boston_RedSox.png'
+                detail: 'Double!'
+    -
+        text: 'What NFL team has a mascot named "Blue"?'
+        options:
+            -
+                correct: false
+                value: 'NFL New York Giants'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_NewYork_Giants.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'NFL Carolina Panthers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Carolina_Panthers.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: true
+                value: 'NFL Indianapolis Colts'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Indianapolis_Colts.png'
+                detail: 'Touchdown!'
+            -
+                correct: false
+                value: 'NFL Miami Dolphins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Miami_Dolphins.png'
+                detail: 'Incomplete pass.'
+description: 'Mascot Challenge (Pro) - Medium'
+topic: mascots-pro

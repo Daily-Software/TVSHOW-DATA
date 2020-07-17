@@ -1,0 +1,485 @@
+id: logos-college-medium
+title: 'College Team Logos Matchup Quiz - Medium'
+questions:
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Yale_Bulldogs.png'
+        options:
+            -
+                correct: true
+                value: 'Yale'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Youngstown State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Brigham Young (BYU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Valparasio'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wyoming_Cowboys.png'
+        options:
+            -
+                correct: false
+                value: 'Oklahoma State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Southern Utah'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Texas State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Wyoming'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incredible!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Troy_Trojans.png'
+        options:
+            -
+                correct: false
+                value: 'Ball State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Drake'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Troy'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Woo Hoo!'
+            -
+                correct: false
+                value: 'North Dakota'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SouthCarolina_Gamecocks.png'
+        options:
+            -
+                correct: false
+                value: 'Chattanooga'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Charlotte'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'South Carolina State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'South Carolina'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'You got it!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_PennState_NittanyLions.png'
+        options:
+            -
+                correct: false
+                value: 'Duquesne'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'South Eastern Louisiana'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Southern'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Penn State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_ColoradoState_Rams.png'
+        options:
+            -
+                correct: false
+                value: 'Baylor'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Colorado State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Ohio'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Virginia Commonwealth'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Creighton_BlueJays.png'
+        options:
+            -
+                correct: true
+                value: 'Creighton'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Amazing!'
+            -
+                correct: false
+                value: 'Columbia'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Coppin State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'California at Riverside'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_DePaul_BlueDemons.png'
+        options:
+            -
+                correct: false
+                value: 'Duke'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'American University'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'DePaul'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Drexel'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_EastCarolina_Pirates.png'
+        options:
+            -
+                correct: false
+                value: 'Saint Marys'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Florida International (FIU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Austin Peay'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'East Carolina'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Excellent!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_KansasState_Wildcats.png'
+        options:
+            -
+                correct: true
+                value: 'Kansas State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Brilliant!'
+            -
+                correct: false
+                value: 'Kentucky'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Howard'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Eastern Kentucky'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Marquette_GoldenEagles.png'
+        options:
+            -
+                correct: true
+                value: 'Marquette'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Maryland'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Morehead State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Maine'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Marshall_ThunderingHerd.png'
+        options:
+            -
+                correct: false
+                value: 'Mercer'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Memphis'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Marist'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Marshall'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Got it!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Minnesota_GoldenGophers.png'
+        options:
+            -
+                correct: false
+                value: 'McNeese State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Massachusetts'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Minnesota'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Woo Hoo!'
+            -
+                correct: false
+                value: 'Manhattan'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Navy_Midshipmen.png'
+        options:
+            -
+                correct: false
+                value: 'Niagra'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Nevada at Reno (UNR)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Northwestern'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'Navy'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'You got it!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Nebraska_Cornhuskers.png'
+        options:
+            -
+                correct: false
+                value: 'Northeastern'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'New Orleans'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Norfolk State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Nebraska'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Nevada_WolfPack.png'
+        options:
+            -
+                correct: false
+                value: 'Loyola Maryland'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Nevada at Reno (UNR)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Nice job!'
+            -
+                correct: false
+                value: 'George Mason'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Delaware'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NewMexico_Lobos.png'
+        options:
+            -
+                correct: true
+                value: 'New Mexico'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Columbia'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Western Carolina'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Samford'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Princeton_Tigers.png'
+        options:
+            -
+                correct: false
+                value: 'Pittsburgh'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Portland State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Princeton'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Presbyterian'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_AppalachianState_Moutaineers.png'
+        options:
+            -
+                correct: false
+                value: 'Alaska'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Albany'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Akron'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Appalachian State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Buffalo_Bulls.png'
+        options:
+            -
+                correct: true
+                value: 'Buffalo'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'You got it!'
+            -
+                correct: false
+                value: 'Bucknell'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Brown'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Boston'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+description: 'Logo Matchup (College) - Medium'
+topic: logos-college

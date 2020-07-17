@@ -1,0 +1,365 @@
+id: kaleidoscope-mlb
+title: 'Kaleidoscope MLB'
+questions:
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_Toronto_BlueJays_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Toronto Blue Jays'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Base hit!'
+            -
+                correct: false
+                value: 'Chicago Cubs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+            -
+                correct: false
+                value: 'Philadelphia Phillies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+            -
+                correct: false
+                value: 'Texas Rangers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_Baltimore_Orioles_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Houston Astros'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'Arizona Diamondbacks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'New York Mets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: true
+                value: 'Baltimore Orioles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Single!'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_Atlanta_Braves_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Boston Red Sox'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called strike.'
+            -
+                correct: false
+                value: 'Arizona Diamondbacks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called strike.'
+            -
+                correct: true
+                value: 'Atlanta Braves'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Hit!'
+            -
+                correct: false
+                value: 'Cleveland Indians'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called strike.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_TampaBay_Rays_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Milwaukee Brewers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swing and a miss.'
+            -
+                correct: false
+                value: 'Seattle Mariners'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swing and a miss.'
+            -
+                correct: false
+                value: 'Detroit Tigers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swing and a miss.'
+            -
+                correct: true
+                value: 'Tampa Bay Rays'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Double!'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_Chicago_Cubs_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Texas Rangers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ground out.'
+            -
+                correct: false
+                value: 'Toronto Blue Jays'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ground out.'
+            -
+                correct: false
+                value: 'Los Angeles Dodgers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ground out.'
+            -
+                correct: true
+                value: 'Chicago Cubs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Base hit!'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_StLouis_Cardinals_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Cleveland Indians'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+            -
+                correct: true
+                value: 'St. Louis Cardinals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Triple!'
+            -
+                correct: false
+                value: 'Boston Red Sox'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+            -
+                correct: false
+                value: 'New York Yankees'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_Cincinnati_Reds_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Cincinnati Reds'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'RBI!'
+            -
+                correct: false
+                value: 'Washington Nationals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fly out.'
+            -
+                correct: false
+                value: 'Los Angeles Angels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fly out.'
+            -
+                correct: false
+                value: 'Cleveland Indians'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fly out.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_SanFrancisco_Giants_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'San Diego Padres'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'Pittsburgh Pirates'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: true
+                value: 'San Francisco Giants'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Home run!'
+            -
+                correct: false
+                value: 'Houston Astros'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_KansasCity_Royals_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Minnesota Twins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swinging strike.'
+            -
+                correct: true
+                value: 'Kansas City Royals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Deep to left!'
+            -
+                correct: false
+                value: 'Chicago White Sox'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swinging strike.'
+            -
+                correct: false
+                value: 'Colorado Rockies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swinging strike.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_Philadelphia_Phillies_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Philadelphia Phillies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Another hit!'
+            -
+                correct: false
+                value: 'New York Yankees'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'Texas Rangers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'Washington Nationals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_LosAngeles_Angels_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Minnesota Twins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+            -
+                correct: true
+                value: 'Los Angeles Angels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Double!'
+            -
+                correct: false
+                value: 'Oakland Athletics'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+            -
+                correct: false
+                value: 'Atlanta Braves'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Strike.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_NewYork_Yankees_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'New York Yankees'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Run scored!'
+            -
+                correct: false
+                value: 'Philadelphia Phillies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fly out.'
+            -
+                correct: false
+                value: 'Los Angeles Dodgers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fly out.'
+            -
+                correct: false
+                value: 'Texas Rangers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fly out.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_LosAngeles_Dodgers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Chicago Cubs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'New York Yankees'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: true
+                value: 'Los Angeles Dodgers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Base hit!'
+            -
+                correct: false
+                value: 'Washington Nationals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_Miami_Marlins_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Seattle Mariners'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swinging strike.'
+            -
+                correct: true
+                value: 'Miami Marlins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Triple!'
+            -
+                correct: false
+                value: 'Colorado Rockies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swinging strike.'
+            -
+                correct: false
+                value: 'Tampa Bay Rays'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swinging strike.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb/mlb_NewYork_Mets_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'New York Mets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Grand slam!'
+            -
+                correct: false
+                value: 'Baltimore Orioles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'San Francisco Giants'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'Pittsburgh Pirates'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Foul ball.'
+description: 'Kaleidoscope MLB'
+topic: kaleidoscope-pro

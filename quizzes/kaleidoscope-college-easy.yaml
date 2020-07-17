@@ -1,0 +1,485 @@
+id: kaleidoscope-college-easy
+title: 'Kaleidoscope College Logo Quest Quiz - Easy'
+questions:
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_ArizonaState_SunDevils_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Arizona State Sun Devils'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Wake Forest Demon Deacons'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Duke Blue Devils'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Mississippi Valley State Delta Devils (MVSU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Auburn_Tigers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Pepperdine Waves'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Rice Owls'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Saint Marys Gaels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Auburn Tigers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incredible!'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Cincinnati_Bearcats_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Davidson Wildcats'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Western Kentucky Hilltoppers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Cincinnati Bearcats'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Woo Hoo!'
+            -
+                correct: false
+                value: 'South Dakota Coyotes'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Clemson_Tigers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Syracuse Orange'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Miami Hurricanes'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Virginia Cavaliers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'Clemson Tigers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'You got it!'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Colorado_Buffaloes_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Vanderbilt Commodores'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Purdue Boilermakers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Army Black Knights'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Colorado Buffaloes'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Florida_Gators_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Florida International Panthers (FIU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Florida Gators'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Florida Atlantic Owls (FAU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Florida Gulf Coast Eagles (FGCU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Gonzaga_Bulldogs_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Gonzaga Bulldogs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Amazing!'
+            -
+                correct: false
+                value: 'South Carolina State Bulldogs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'The Citadel Bulldogs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Georgia Bulldogs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Kansas_Jayhawks_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Iowa State Cyclones'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Rhode Island Rams'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Kansas Jayhawks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Southern California Trojans (USC)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_LSU_Tigers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'East Carolina Pirates'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Louisiana State Tigers (LSU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'North Alabama Lions'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Portland Pilots'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Michigan_Wolverines_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Michigan Wolverines'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Brilliant!'
+            -
+                correct: false
+                value: 'Marquette Golden Eagles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'West Virginia Mountaineers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'California Golden Bears (UC Berkeley)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Minnesota_GoldenGophers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Virginia Tech Hokies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Massachusetts Minutemen'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'Minnesota Golden Gophers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Central Michigan Chippewas'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Nebraska_Cornhuskers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Oklahoma Sooners'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Harvard Crimson'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Tennessee Volunteers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Nebraska Cornhuskers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Got it!'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Nevada_Wolfpack_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Notre Dame Fighting Irish'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Navy Midshipmen'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Nevada Wolfpack'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Woo Hoo!'
+            -
+                correct: false
+                value: 'Kentucky Wildcats'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Not it.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_NorthCarolina_Tarheels_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Air Force Falcons'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Akron Zips'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Duke Blue Devils'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'North Carolina Tarheels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'You got it!'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_OhioState_Buckeyes_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Nebraska Omaha Mavericks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Northern Illinois Huskies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Oklahoma Sooners'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Ohio State Buckeyes'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_OklahomaState_Cowboys_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Virginia Cavaliers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Oklahoma State Cowboys'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Nice job!'
+            -
+                correct: false
+                value: 'Oregon State Beavers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Princeton Tigers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Keep trying.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Stanford_Cardinal_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Stanford Cardinal'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'California at Los Angeles Bruins (UCLA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Southern California Trojans (USC)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Louisville Cardinals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_UNLV_Rebels_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Utah Utes'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Texas El Paso Miners (UTEP)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Nevada at Las Vegas Rebels (UNLV)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Tulsa Golden Hurricane'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Oh no.'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_TexasTech_RedRaiders_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Boston College Eagles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Arkansas Razorbacks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Troy Trojans'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Texas Tech Red Raiders'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Correct!'
+    -
+        text: 'Which college logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_UCLA_Bruins_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'California at Los Angeles Bruins (UCLA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'You got it!'
+            -
+                correct: false
+                value: 'Air Force Falcons'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Duke Blue Devils'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'North Carolina Tarheels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Better luck next time.'
+description: 'Kaleidoscope Quest (College) - Easy'
+topic: kaleidoscope-college

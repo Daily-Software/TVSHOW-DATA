@@ -1,0 +1,365 @@
+id: kaleidoscope-nba
+title: 'Kaleidoscope NBA'
+questions:
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Boston_Celtics_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Boston Celtics'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Great pass!'
+            -
+                correct: false
+                value: 'Milwaukee Bucks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: false
+                value: 'Cleveland Cavaliers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: false
+                value: 'Minnesota Timberwolves'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Utah_Jazz_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Memphis Grizzlies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball lost.'
+            -
+                correct: false
+                value: 'Orlando Magic'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball lost.'
+            -
+                correct: false
+                value: 'Indiana Pacers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball lost.'
+            -
+                correct: true
+                value: 'Utah Jazz'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Assist!'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Portland_Trailblazers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Washington Wizards'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed shot.'
+            -
+                correct: false
+                value: 'Detroit Pistons'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed shot.'
+            -
+                correct: true
+                value: 'Portland Trail Blazers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Nice shot!'
+            -
+                correct: false
+                value: 'Miami Heat'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed shot.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Orlando_Magic_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Dallas Mavericks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball stolen.'
+            -
+                correct: false
+                value: 'Memphis Grizzlies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball stolen.'
+            -
+                correct: false
+                value: 'Minnesota Timberwolves'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball stolen.'
+            -
+                correct: true
+                value: 'Orlando Magic'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Easy layup!'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_NewYork_Knicks_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Cleveland Cavaliers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed shot.'
+            -
+                correct: false
+                value: 'Phoenix Suns'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed shot.'
+            -
+                correct: false
+                value: 'Oklahoma City Thunder'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed shot.'
+            -
+                correct: true
+                value: 'New York Knicks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Dunk!'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_NewOrleans_Pelicans_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Toronto Raptors'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called 3 seconds.'
+            -
+                correct: true
+                value: 'New Orleans Pelicans'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: '3 from the baseline!'
+            -
+                correct: false
+                value: 'Washington Wizards'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called 3 seconds.'
+            -
+                correct: false
+                value: 'Oklahoma City Thunder'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called 3 seconds.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Milwaukee_Bucks_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Milwaukee Bucks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fast break for 2!'
+            -
+                correct: false
+                value: 'Brooklyn Nets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed pass.'
+            -
+                correct: false
+                value: 'Utah Jazz'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed pass.'
+            -
+                correct: false
+                value: 'Boston Celtics'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Missed pass.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Miami_Heat_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Golden State Warriors'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Out of bounds.'
+            -
+                correct: false
+                value: 'Toronto Raptors'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Out of bounds.'
+            -
+                correct: true
+                value: 'Miami Heat'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'And 1!'
+            -
+                correct: false
+                value: 'Oklahoma City Thunder'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Out of bounds.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_LosAngeles_Lakers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Los Angeles Clippers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Shot blocked.'
+            -
+                correct: true
+                value: 'Los Angeles Lakers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: '3 from deep!'
+            -
+                correct: false
+                value: 'Phoenix Suns'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Shot blocked.'
+            -
+                correct: false
+                value: 'Sacramento Kings'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Shot blocked.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_LosAngeles_Clippers_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Los Angeles Clippers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Slam Dunk!'
+            -
+                correct: false
+                value: 'Los Angeles Lakers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called for traveling.'
+            -
+                correct: false
+                value: 'Washington Wizards'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called for traveling.'
+            -
+                correct: false
+                value: 'Detroit Pistons'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called for traveling.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_GoldenState_Warriors_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Denver Nuggets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Personal foul.'
+            -
+                correct: true
+                value: 'Golden State Warriors'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Double double!'
+            -
+                correct: false
+                value: 'Utah Jazz'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Personal foul.'
+            -
+                correct: false
+                value: 'Indiana Pacers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Personal foul.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Chicago_Bulls_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Chicago Bulls'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Nice bucket!'
+            -
+                correct: false
+                value: 'Atlanta Hawks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball stolen.'
+            -
+                correct: false
+                value: 'Houston Rockets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball stolen.'
+            -
+                correct: false
+                value: 'Philadelphia 76ers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Ball stolen.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Charlotte_Hornets_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Memphis Grizzlies'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Shot blocked.'
+            -
+                correct: false
+                value: 'Minnesota Timberwolves'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Shot blocked.'
+            -
+                correct: true
+                value: 'Charlotte Hornets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Swish!'
+            -
+                correct: false
+                value: 'San Antonio Spurs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Shot blocked.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Houston_Rokets_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Toronto Raptors'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called for traveling.'
+            -
+                correct: true
+                value: 'Houston Rockets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'And 1!'
+            -
+                correct: false
+                value: 'San Antonio Spurs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called for traveling.'
+            -
+                correct: false
+                value: 'Cleveland Cavaliers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Called for traveling.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba/nba_Sacramento_Kings_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Sacramento Kings'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Triple double!'
+            -
+                correct: false
+                value: 'Los Angeles Lakers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Out of bounds.'
+            -
+                correct: false
+                value: 'Phoenix Suns'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Out of bounds.'
+            -
+                correct: false
+                value: 'New York Knicks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Out of bounds.'
+description: 'Kaleidoscope NBA'
+topic: kaleidoscope-pro

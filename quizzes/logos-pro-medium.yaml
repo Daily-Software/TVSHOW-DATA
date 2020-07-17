@@ -1,0 +1,245 @@
+id: logos-pro-medium
+title: 'Pro Team Logo Matchup - Medium'
+questions:
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl_modified/NFL_Tennessee_Titans.png'
+        options:
+            -
+                correct: true
+                value: 'Tennessee Titans (NFL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Tennessee_Titans.png'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Minnesota Timberwolves (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Minnesota_Timberwolves.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Texas Rangers (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Texas_Rangers.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Minnesota Twins (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Minnesota_Twins.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nhl_modified/NHL_Arizona_Coyotes.png'
+        options:
+            -
+                correct: false
+                value: 'Minnesota Wild (NHL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Memphis Grizzlies (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Memphis_Grizzlies.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Nashville Predators (NHL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Nashville_Predators.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Arizona Coyotes (NHL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Arizona_Coyotes.png'
+                detail: 'You got it!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb_modified/MLB_Seattle_Mariners.png'
+        options:
+            -
+                correct: false
+                value: 'Milwaukee Brewers (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Milwaukee_Brewers.png'
+                detail: 'Foul.'
+            -
+                correct: false
+                value: 'Oakland Athletics (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Oakland_Athletics.png'
+                detail: 'Foul.'
+            -
+                correct: true
+                value: 'Seattle Mariners (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Seattle_Mariners.png'
+                detail: 'Base hit!'
+            -
+                correct: false
+                value: 'Texas Rangers (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Texas_Rangers.png'
+                detail: 'Foul.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl_modified/NFL_Cleveland_Browns.png'
+        options:
+            -
+                correct: false
+                value: 'Cincinnati Bengals (NFL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Cincinnati_Bengals.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: false
+                value: 'Chicago Bears (NFL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Chicago_Bears.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: false
+                value: 'Denver Broncos (NFL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Denver_Broncos.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: true
+                value: 'Cleveland Browns (NFL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Cleveland_Browns.png'
+                detail: 'First down!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nba_modified/NBA_Washington_Wizards.png'
+        options:
+            -
+                correct: false
+                value: 'Philadelphia 76ers (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Philadelphia_76ers.png'
+                detail: 'Blocked shot.'
+            -
+                correct: false
+                value: 'Utah Jazz (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Utah_Jazz.png'
+                detail: 'Blocked shot.'
+            -
+                correct: false
+                value: 'Dallas Mavericks (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Dallas_Mavericks.png'
+                detail: 'Blocked shot.'
+            -
+                correct: true
+                value: 'Washington Wizards (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Washington_Wizards.png'
+                detail: 'And 1!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb_modified/MLB_Milwaukee_Brewers.png'
+        options:
+            -
+                correct: false
+                value: 'Philadelphia Phillies (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Philadelphia_Phillies.png'
+                detail: 'Strike.'
+            -
+                correct: true
+                value: 'Milwaukee Brewers (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Milwaukee_Brewers.png'
+                detail: 'Home run!'
+            -
+                correct: false
+                value: 'San Diego Padres (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_SanDiego_Padres.png'
+                detail: 'Strike.'
+            -
+                correct: false
+                value: 'Texas Rangers (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Texas_Rangers.png'
+                detail: 'Strike.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nhl_modified/NHL_Boston_Bruins.png'
+        options:
+            -
+                correct: true
+                value: 'Boston Bruins (NHL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Boston_Bruins.png'
+                detail: 'Yes!'
+            -
+                correct: false
+                value: 'Brooklyn Nets (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Brooklyn_Nets.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Buffalo Sabres (NHL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Buffalo_Sabres.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Baltimore Ravens (NFL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Baltimore_Ravens.png'
+                detail: 'Better luck next time.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/mlb_modified/MLB_Pittsburgh_Pirates.png'
+        options:
+            -
+                correct: false
+                value: 'Pittsburgh Steelers (NFL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Pittsburgh_Steelers.png'
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Nashville Predators (NHL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Nashville_Predators.png'
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Pittsburgh Pirates (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Pittsburgh_Pirates.png'
+                detail: 'Right on target!'
+            -
+                correct: false
+                value: 'Indiana Pacers (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Indiana_Pacers.png'
+                detail: 'Oh no.'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl_modified/NFL_Houston_Texans.png'
+        options:
+            -
+                correct: false
+                value: 'Houston Astros (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Houston_Astros.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Chicago Bulls (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Chicago_Bulls.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Nashville Predators (NHL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Nashville_Predators.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Houston Texans (NFL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Houston_Texans.png'
+                detail: 'Correct!'
+    -
+        text: 'What team has this logo?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nhl_modified/NHL_Edmonton_Oilers.png'
+        options:
+            -
+                correct: true
+                value: 'Edmonton Oilers (NHL)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Edmonton_Oilers.png'
+                detail: 'You got it!'
+            -
+                correct: false
+                value: 'New York Knicks (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_NewYork_Knicks.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Indiana Pacers (NBA)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Indiana_Pacers.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'New York Mets (MLB)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_NewYork_Mets.png'
+                detail: 'Better luck next time.'
+description: 'Logo Matchup (Pro) - Medium'
+topic: logos-pro

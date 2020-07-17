@@ -1,0 +1,235 @@
+id: mascots-pro-easy
+title: 'Pro Mascot Quiz - Easy'
+questions:
+    -
+        text: 'What NFL team has a mascot named "Staley Da Bear"?'
+        options:
+            -
+                correct: true
+                value: 'NFL Chicago Bears'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Chicago_Bears.png'
+                detail: 'First down!'
+            -
+                correct: false
+                value: 'NFL New England Patriots'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_NewEngland_Patriots.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'NFL Los Angeles Chargers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_LosAngeles_Chargers.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'NFL Green Bay Packers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_GreenBay_Packers.png'
+                detail: 'Incomplete pass.'
+    -
+        text: 'What MLB team has a mascot named "Paws"?'
+        options:
+            -
+                correct: false
+                value: 'MLB Los Angeles Dodgers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Dodgers.png'
+                detail: 'Strike.'
+            -
+                correct: false
+                value: 'MLB New York Yankees'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_NewYork_Yankees.png'
+                detail: 'Strike.'
+            -
+                correct: false
+                value: 'MLB Cincinnati Reds'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Cincinnati_Reds.png'
+                detail: 'Strike.'
+            -
+                correct: true
+                value: 'MLB Detroit Tigers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Detroit_Tigers.png'
+                detail: 'Base hit!'
+    -
+        text: 'What NHL team has a mascot named "Sabretooth"?'
+        options:
+            -
+                correct: true
+                value: 'NHL Buffalo Sabres'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Buffalo_Sabres.png'
+                detail: 'Goal!'
+            -
+                correct: false
+                value: 'NHL Pittsburgh Penguins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Pittsburgh_Penguins.png'
+                detail: 'Missed shot.'
+            -
+                correct: false
+                value: 'NHL Ottawa Senators'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Ottawa_Senators.png'
+                detail: 'Missed shot.'
+            -
+                correct: false
+                value: 'NHL Minnesota Wild'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
+                detail: 'Missed shot.'
+    -
+        text: 'What NBA team has a mascot named Hugo the "Hornet"?'
+        options:
+            -
+                correct: false
+                value: 'NBA Boston Celtics'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Boston_Celtics.png'
+                detail: 'Called for traveling.'
+            -
+                correct: true
+                value: 'NBA Charlotte Hornets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Charlotte_Hornets.png'
+                detail: 'And 1!'
+            -
+                correct: false
+                value: 'NBA Golden State Warriors'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_GoldenState_Warriors.png'
+                detail: 'Called for traveling.'
+            -
+                correct: false
+                value: 'NBA Los Angeles Lakers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_LosAngeles_Lakers.png'
+                detail: 'Called for traveling.'
+    -
+        text: 'What NFL team has a mascot named "Freddie Falcon"?'
+        options:
+            -
+                correct: false
+                value: 'NFL Baltimore Ravens'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Baltimore_Ravens.png'
+                detail: 'Fumble.'
+            -
+                correct: false
+                value: 'NFL Philadelphia Eagles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Philadelphia_Eagles.png'
+                detail: 'Fumble.'
+            -
+                correct: false
+                value: 'NFL Seattle Seahawks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Seattle_Seahawks.png'
+                detail: 'Fumble.'
+            -
+                correct: true
+                value: 'NFL Atlanta Falcons'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Atlanta_Falcons.png'
+                detail: 'Long run to the RedZone!'
+    -
+        text: 'What NHL team has a mascot named "Stanley C. Panther"?'
+        options:
+            -
+                correct: false
+                value: 'NHL Anaheim Ducks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Anaheim_Ducks.png'
+                detail: 'Called for icing.'
+            -
+                correct: false
+                value: 'NHL StLouis Blues'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_StLouis_Blues.png'
+                detail: 'Called for icing.'
+            -
+                correct: true
+                value: 'NHL Florida Panthers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Florida_Panthers.png'
+                detail: 'Another Goal!'
+            -
+                correct: false
+                value: 'NHL Minnesota Wild'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
+                detail: 'Called for icing.'
+    -
+        text: 'What MLB team has a mascot named "Orbit"?'
+        options:
+            -
+                correct: false
+                value: 'MLB Los Angeles Angels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Angels.png'
+                detail: 'Foul ball.'
+            -
+                correct: true
+                value: 'MLB Houston Astros'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Houston_Astros.png'
+                detail: 'Double!'
+            -
+                correct: false
+                value: 'MLB Kansas City Royals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_KansasCity_Royals.png'
+                detail: 'Foul ball.'
+            -
+                correct: false
+                value: 'MLB Los Angeles Dodgers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Dodgers.png'
+                detail: 'Foul ball.'
+    -
+        text: 'What NHL team has a mascot named "Iceburgh"?'
+        options:
+            -
+                correct: false
+                value: 'NHL New York Islanders'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_NewYork_Islanders.png'
+                detail: 'Offside.'
+            -
+                correct: true
+                value: 'NHL Pittsburgh Penguins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Pittsburgh_Penguins.png'
+                detail: 'Hat trick!'
+            -
+                correct: false
+                value: 'NHL Boston Bruins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Boston_Bruins.png'
+                detail: 'Offside.'
+            -
+                correct: false
+                value: 'NHL Calgary Flames'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Calgary_Flames.png'
+                detail: 'Offside.'
+    -
+        text: 'What MLB team has a mascot named "Raymond"?'
+        options:
+            -
+                correct: false
+                value: 'MLB Seattle Mariners'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Seattle_Mariners.png'
+                detail: 'Swing and a miss.'
+            -
+                correct: false
+                value: 'MLB Miami Marlins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Miami_Marlins.png'
+                detail: 'Swing and a miss.'
+            -
+                correct: false
+                value: 'MLB Los Angeles Angels'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Angels.png'
+                detail: 'Swing and a miss.'
+            -
+                correct: true
+                value: 'MLB Tampa Bay Rays'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_TampaBay_Rays.png'
+                detail: 'Home run!'
+    -
+        text: 'What NFL team has a mascot named "Blitz"?'
+        options:
+            -
+                correct: false
+                value: 'NFL Buffalo Bills'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Buffalo_Bills.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: false
+                value: 'NFL Cincinnati Bengals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Cincinnati_Bengals.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: true
+                value: 'NFL Seattle Seahawks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Seattle_Seahawks.png'
+                detail: 'Touchdown!'
+            -
+                correct: false
+                value: 'NFL Dallas Cowboys'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Dallas_Cowboys.png'
+                detail: 'Loss of yardage.'
+description: 'Mascot Challenge (Pro) - Easy'
+topic: mascots-pro

@@ -1,0 +1,365 @@
+id: kaleidoscope-nfl
+title: 'Kaleidoscope NFL'
+questions:
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Cincinnati_Bengals_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Cleveland Browns'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: false
+                value: 'Denver Broncos'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: true
+                value: 'Cincinnati Bengals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Great pass!'
+            -
+                correct: false
+                value: 'Chicago Bears'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Miami_Dophins_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Los Angeles Chargers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fumble.'
+            -
+                correct: false
+                value: 'Philadelphia Eagles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fumble.'
+            -
+                correct: false
+                value: 'Seattle Seahawks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Fumble.'
+            -
+                correct: true
+                value: 'Miami Dolphins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Great run!'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_TampaBay_Buccaneers_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'San Francisco 49ers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'Atlanta Falcons'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: true
+                value: 'Tampa Bay Buccaneers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'First down!'
+            -
+                correct: false
+                value: 'Houston Texans'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Jacksonville_Jaguars_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Dallas Cowboys'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: '5 yard penalty.'
+            -
+                correct: false
+                value: 'Philadelphia Eagles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: '5 yard penalty.'
+            -
+                correct: true
+                value: 'Jacksonville Jaguars'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Another first down!'
+            -
+                correct: false
+                value: 'Carolina Panthers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: '5 yard penalty.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_NewEngland_Patriots_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Buffalo Bills'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: false
+                value: 'Houston Texans'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: false
+                value: 'Tennessee Titans'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: true
+                value: 'New England Patriots'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Deep pass to the Red Zone!'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_LasVegas_Raiders_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Carolina Panthers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Gonna have to punt.'
+            -
+                correct: true
+                value: 'Las Vegas Raiders'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Field goal!'
+            -
+                correct: false
+                value: 'Philadelphia Eagles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Gonna have to punt.'
+            -
+                correct: false
+                value: 'New Orleans Saints'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Gonna have to punt.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_GreenBay_Packers_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Green Bay Packers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Touchdown!'
+            -
+                correct: false
+                value: 'Miami Dolphins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'New York Jets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'Seattle Seahawks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Tennessee_Titans_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'New England Patriots'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: false
+                value: 'Buffalo Bills'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: true
+                value: 'Tennessee Titans'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Great run up the middle!'
+            -
+                correct: false
+                value: 'Detroit Lions'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Baltimore_Ravens_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'New Orleans Saints'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Stopped at the line.'
+            -
+                correct: true
+                value: 'Baltimore Ravens'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'One handed catch!'
+            -
+                correct: false
+                value: 'Jacksonville Jaguars'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Stopped at the line.'
+            -
+                correct: false
+                value: 'Washington Redskins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Stopped at the line.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Atlanta_Falcons_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Atlanta Falcons'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'First down!'
+            -
+                correct: false
+                value: 'Kansas City Chiefs'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: '10 yard penalty.'
+            -
+                correct: false
+                value: 'San Francisco 49ers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: '10 yard penalty.'
+            -
+                correct: false
+                value: 'Washington Redskins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: '10 yard penalty.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Philadelphia_Eagles_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'New York Jets'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Take the sack.'
+            -
+                correct: true
+                value: 'Philadelphia Eagles'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Completed pass!'
+            -
+                correct: false
+                value: 'Seattle Seahawks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Take the sack.'
+            -
+                correct: false
+                value: 'Los Angeles Rams'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Take the sack.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Arizona_Cardinals_kaleidoscope.png'
+        options:
+            -
+                correct: true
+                value: 'Arizona Cardinals'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Field goal!'
+            -
+                correct: false
+                value: 'Tampa Bay Buccaneers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Gonna have to punt.'
+            -
+                correct: false
+                value: 'Washington Redskins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Gonna have to punt.'
+            -
+                correct: false
+                value: 'San Francisco 49ers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Gonna have to punt.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Denver_Broncos_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'Chicago Bears'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: false
+                value: 'Indianapolis Colts'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Loss of yardage.'
+            -
+                correct: true
+                value: 'Denver Broncos'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Big run for 20!'
+            -
+                correct: false
+                value: 'Cleveland Browns'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Loss of yardage.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Minnesota_Vikings_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'New Orleans Saints'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: true
+                value: 'Minnesota Vikings'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Deep pass to the Red Zone!'
+            -
+                correct: false
+                value: 'Baltimore Ravens'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'Washington Redskins'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Incomplete pass.'
+    -
+        text: 'Which MLB team logo kaleidoscopes like this?'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/nfl/nfl_Seattle_Seahawks_kaleidoscope.png'
+        options:
+            -
+                correct: false
+                value: 'New York Giants'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: true
+                value: 'Seattle Seahawks'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Touchdown!'
+             -
+               correct: false
+                value: 'Dallas Cowboys'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+            -
+                correct: false
+                value: 'Indianapolis Colts'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png'
+                detail: 'Turnover.'
+description: 'Kaleidoscope NFL'
+topic: kaleidoscope-pro

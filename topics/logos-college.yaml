@@ -1,0 +1,18 @@
+quizzes:
+    -
+        title: Easy
+        description: 'NCAA Div 1 college teams'
+        id: logos-college-easy
+    -
+        title: Medium
+        description: 'NCAA Div 1 college teams'
+        id: logos-college-medium
+    -
+        title: Hard
+        description: 'NCAA Div 1 college teams'
+        id: logos-college-hard
+id: logos-college
+img: logos-college.png
+img_large: logos-college-large.png
+title: Logo Matchup (College)
+game_type: 'text'
