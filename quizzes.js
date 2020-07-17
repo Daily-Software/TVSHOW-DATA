@@ -8,24 +8,22 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const quizzes = [
-    'mascots-pro-easy',
-    'mascots-pro-medium',
-    'mascots-pro-hard',
-    'mascots-college-easy',
-    'mascots-college-medium',
-    'mascots-college-hard',
-    'logos-pro-easy',
-    'logos-pro-medium',
-    'logos-pro-hard',
-    'logos-college-easy',
-    'logos-college-medium',
-    'logos-college-hard',    
-    'kaleidoscope-pro-nba',
-    'kaleidoscope-pro-nfl',
-    'kaleidoscope-pro-mlb',
-    'kaleidoscope-pro-nhl',
-    'kaleidoscope-college-easy',
-    'kaleidoscope-college-hard'    
+    'the-office-michael-scott',
+    'the-office-dwight-schrute',
+    'the-office-jim-halpert',
+    'the-office-pam-beesly',
+    'the-office-Rryan-howard',
+    'the-office-andy-bernard',
+    'the-office-stanley-hudson',
+    'the-office-kevin-malone',
+    'the-office-meredith-palmer',
+    'the-office-angela-martin',
+    'the-office-oscar-martinez',
+    'the-office-phyllis-lapin',
+    'the-office-kelly-kapoor',
+    'the-office-toby-fenderono',
+    'the-office-creed-bratton',
+    'the-office-darryl-philbin'   
 ]
 
 

@@ -8,12 +8,7 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const topics = [
-    'mascots-pro',
-    'mascots-college',
-    'logos-pro',
-    'logos-college',
-    'kaleidoscope-pro',
-    'kaleidoscope-college'
+    'the-office'
 ]
 
 const update = async(id) => {
