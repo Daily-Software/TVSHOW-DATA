@@ -1,0 +1,29 @@
+id: the-office-oscar-martinez
+title: 'The Office Quiz - Oscar Martinez'
+questions:
+    -
+        text: 'Question goes here'
+        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        options:
+            -
+                correct: true
+                value: 'NFL Chicago Bears'
+                team_img: ''
+                detail: 'First down!'
+            -
+                correct: false
+                value: 'NFL New England Patriots'
+                team_img: ''
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'NFL Los Angeles Chargers'
+                team_img: ''
+                detail: 'Incomplete pass.'
+            -
+                correct: false
+                value: 'NFL Green Bay Packers'
+                team_img: ''
+                detail: 'Incomplete pass.'
+description: 'The Office Quiz - Oscar Martinez'
+topic: the-office

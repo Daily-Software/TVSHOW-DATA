@@ -1,0 +1,70 @@
+quizzes:
+    -
+        title: 'The Office - Michael Scott' 
+        description: 'The Office - Michael Scott'
+        id: the-office-michael-scott
+    -
+        title: 'The Office - Dwight Schrute' 
+        description: 'The Office - Dwight Schrute'
+        id: the-office-dwight-schrute
+    -
+        title: 'The Office - Jim Halpert' 
+        description: 'The Office - Jim Halpert'
+        id: the-office-jim-halpert
+    -
+        title: 'The Office - Pam Beesly' 
+        description: 'The Office - Pam Beesly'
+        id: the-office-pam-beesly
+    -
+        title: 'The Office - Ryan Howard' 
+        description: 'The Office - Ryan Howard'
+        id: the-office-Rryan-howard
+    -
+        title: 'The Office - Andy Bernard' 
+        description: 'The Office - Andy Bernard'
+        id: the-office-andy-bernard
+    -
+        title: 'The Office - Stanley Hudson' 
+        description: 'The Office - Stanley Hudson'
+        id: the-office-stanley-hudson
+    -
+        title: 'The Office - Kevin Malone' 
+        description: 'The Office - Kevin Malone'
+        id: the-office-kevin-malone
+    -
+        title: 'The Office - Meredith Palmer' 
+        description: 'The Office - Meredith Palmer'
+        id: the-office-meredith-palmer
+    -
+        title: 'The Office - Angela Martin' 
+        description: 'The Office - Angela Martin'
+        id: the-office-angela-martin
+    -
+        title: 'The Office - Oscar Martinez' 
+        description: 'The Office - Oscar Martinez'
+        id: the-office-oscar-martinez
+    -
+        title: 'The Office - Phyllis Lapin' 
+        description: 'The Office - Phyllis Lapin'
+        id: the-office-phyllis-lapin
+    -
+        title: 'The Office - Kelly Kapoor' 
+        description: 'The Office - Kelly Kapoor'
+        id: the-office-kelly-kapoor
+    -
+        title: 'The Office - Toby Fenderono' 
+        description: 'The Office - Toby Fenderono'
+        id: the-office-toby-fenderono
+    -
+        title: 'The Office - Creed Bratton' 
+        description: 'The Office - Creed Bratton'
+        id: the-office-creed-bratton
+    -
+        title: 'The Office - Darryl Philbin' 
+        description: 'The Office - Darryl Philbin'
+        id: the-office-darryl-philbin
+id: the-office
+img: the-office.png
+img_large: the-office-large.png
+title: 'The Office Quiz'
+game_type: 'text'
