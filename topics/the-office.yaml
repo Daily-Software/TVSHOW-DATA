@@ -4,99 +4,99 @@ quizzes:
         description: 'The Office - Michael Scott'
         id: the-office-michael-scott
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-michael-scott.png'
-        order: 1
+        order: '1'
     -
         title: 'The Office - Dwight Schrute' 
         description: 'The Office - Dwight Schrute'
         id: the-office-dwight-schrute
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-dwight-schrute.png'
-        order: 2
+        order: '2'
     -
         title: 'The Office - Jim Halpert' 
         description: 'The Office - Jim Halpert'
         id: the-office-jim-halpert
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-jim-halpert.png'
-        order: 3
+        order: '3'
     -
         title: 'The Office - Pam Beesly' 
         description: 'The Office - Pam Beesly'
         id: the-office-pam-beesly
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-pam-beesly.png'
-        order: 4
+        order: '4'
     -
         title: 'The Office - Ryan Howard' 
         description: 'The Office - Ryan Howard'
         id: the-office-ryan-howard
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-ryan-howard.png'
-        order: 5
+        order: '5'
     -
         title: 'The Office - Andy Bernard' 
         description: 'The Office - Andy Bernard'
         id: the-office-andy-bernard
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-andy-bernard.png'
-        order: 6
+        order: '6'
     -
         title: 'The Office - Stanley Hudson' 
         description: 'The Office - Stanley Hudson'
         id: the-office-stanley-hudson
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-stanley-hudson.png'
-        order: 7
+        order: '7'
     -
         title: 'The Office - Kevin Malone' 
         description: 'The Office - Kevin Malone'
         id: the-office-kevin-malone
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-kevin-malone.png'
-        order: 8
+        order: '8'
     -
         title: 'The Office - Meredith Palmer' 
         description: 'The Office - Meredith Palmer'
         id: the-office-meredith-palmer
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-meredith-palmer.png'
-        order: 9
+        order: '9'
     -
         title: 'The Office - Angela Martin' 
         description: 'The Office - Angela Martin'
         id: the-office-angela-martin
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-angela-martin.png'
-        order: 10
+        order: '10'
     -
         title: 'The Office - Oscar Martinez' 
         description: 'The Office - Oscar Martinez'
         id: the-office-oscar-martinez
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-oscar-martinez.png'
-        order: 11
+        order: '11'
     -
         title: 'The Office - Phyllis Lapin' 
         description: 'The Office - Phyllis Lapin'
         id: the-office-phyllis-lapin
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-phyllis-lapin.png'
-        order: 12
+        order: '12'
     -
         title: 'The Office - Kelly Kapoor' 
         description: 'The Office - Kelly Kapoor'
         id: the-office-kelly-kapoor
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-kelly-kapoor.png'
-        order: 13
+        order: '13'
     -
         title: 'The Office - Toby Fenderono' 
         description: 'The Office - Toby Fenderono'
         id: the-office-toby-fenderono
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-toby-fenderono.png'
-        order: 14
+        order: '14'
     -
         title: 'The Office - Creed Bratton' 
         description: 'The Office - Creed Bratton'
         id: the-office-creed-bratton
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-creed-bratton.png'
-        order: 15
+        order: '15'
     -
         title: 'The Office - Darryl Philbin' 
         description: 'The Office - Darryl Philbin'
         id: the-office-darryl-philbin
         img: 'https://io-daily-software-cdn.web.app/tvquiz/the-office-darryl-philbin.png'
-        order: 16
+        order: '16'
 id: the-office
-img: the-office.png
-img_large: the-office-large.png
+img: 'the-office.png'
+img_large: 'the-office.png'
 title: 'The Office Quiz'
 game_type: 'text'
