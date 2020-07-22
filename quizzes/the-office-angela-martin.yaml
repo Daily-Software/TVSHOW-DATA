@@ -2,28 +2,292 @@ id: the-office-angela-martin
 title: 'The Office Quiz - Angela Martin'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Who endearingly refers to Angela as "Monkey"?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael Scott'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Robert Lipton'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Andy Bernard'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Dwight Schrute'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What is the name of Angela''s cat that Dwight puts in the freezer?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Princess Lady'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Ember'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Bandit'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Sprinkles'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Who is Angela''s ideal of male beauty?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Dwight Schrute'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Andy Bernard'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Boris Becker'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Sean Hannity'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What word does Angela have difficulty saying in Product Recall episode?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Never'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Always'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Love'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Sorry'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What is Angela''s middle name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Nicole'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Naomi'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Norah'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Noelle'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What ailment does Angela suffer from?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Diabetes'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Sleep apnea'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Exyma'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Allergic to dogs'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'Which car does not appear in an episide that Angela is driving?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Dodge minivan'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Ford Focus'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Saturn S-series'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Cadillac SRX'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'Angela claims to weigh?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: '112 pounds'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: '92 pounds'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: '82 pounds'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: '102 pounds'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'She finds the clothes at Gap Kids to sometimes be too?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Colorful'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Big'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Expensive'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Flashy'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'During Dwight''s fake fire exercise, who does Angela ask to pull her up through a vent?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Oscar'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Creed'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Andy'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'Who made Angela wear a hair net?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Phyllis'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Meredith'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Karen'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Pam'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'In the Convention episode, under what name does Angela check into the hotel?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Jane Doe'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Angela Martin'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Mrs. Schrute'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Phyllis Vance'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Angela Martin'
 topic: the-office

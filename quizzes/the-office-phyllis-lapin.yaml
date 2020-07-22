@@ -2,28 +2,292 @@ id: the-office-phyllis-lapin
 title: 'The Office Quiz - Phyllis Lapin'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Who did Phyllis go to high school with?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: '???'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Bob Vance'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Todd Packer'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Michael Scott'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What sport did she play in high school?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'None'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Softball'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Volleyball'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Basketball'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Which is not a nicename for Phillys?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Mama Goose'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Phallus'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Vancinator'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Easy Rider'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'Phyllis'' most frequently worn color?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Blue'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Red'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Orange'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Purple'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What ailment did Phylllis suffer as a child?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Heart murmur'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Eczema'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Diabetes'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Scoliosis'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'She is a Lutheran and Bob is a Unitarian; it is what keeps things?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: '"Interesting"'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: '"Spicy"'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: '"Going"'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: '"Hot"'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'Phyllis invited Michael to her wedding so she could get?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Six weeks off'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Four weeks off'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Two weeks off'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'A trip to Niagra'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'Who doesn''t Phyllis plan Michael''s goodbye party with?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Angela'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Meredith'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Karen'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Pam'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'Phyllis appears on Andy''s seminar poster with everyone except?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Andy'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Jim'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Dwight'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Stanley'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'On the seminar poster she is labeled?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Small Business Expert'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Paper Salesperson'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Marketing Professor'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Bob''s wife'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'What gift does Phyllis make for Secret Santa?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Oven mitt'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Scarf'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Pair of socks'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Napkin holder'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'What famous person is Phyllis sent down to the Steamtown mall to get for the commercial?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Sue Grafton'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Hilary Swank'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Jane Seymour'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Charles Barkley'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Phyllis Lapin'
 topic: the-office

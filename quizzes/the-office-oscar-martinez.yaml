@@ -2,28 +2,292 @@ id: the-office-oscar-martinez
 title: 'The Office Quiz - Oscar Martinez'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Who is Oscar''s god-child?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Philip Halpert'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'CeCe Halpert'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Philip Lipton'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Philip Schrute'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Which person has Oscar not kissed?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Robert Lipton'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Gil'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Kevin'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Which is not a nicename for Oscar?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'C-Span'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Bacchus God of Wine'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Acountant Extrodinaire'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Actually'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'In the Fire episode who doesn''t have Oscar on their "who would you do" list?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Phyllis'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Meredith'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Pam'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Kelly'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'In The Client episode, what character does Oscar play in Michael''s screenplay read?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael Scarn'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Samuel Chang'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Cathrine Zeda Jones'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Goldenface'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What gift does Oscar give Creed for Secret Santa?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Shirt'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Shamrock key chain'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Cookbook'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Candles'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'Where does Oscar take his Yoga class?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Dickson City'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Jefferson County'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'In Scranton'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Jefferson City'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'Who does he recommend the yoga class to?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Pam'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Jan'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Holly'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Nellie'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'Oscar is on the phone in all these sinarios except which one?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'When Michael is showing Katy, the purse salesperson, around'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'When the fire alarm rings for the cheezy pita'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'During the warehouse basketball game'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'When Dwight takes down Roy with pepper spray'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'When Oscar inserts himself into conversations, his favorite choice of word is?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Actually'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Really'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Honestly'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Surprisingly'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'Who does Oscar have a crush on at work?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Matt'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Jerry'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Calvin'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'On the business trip, what type of drink does Andy and Oscar get drunk on?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Long Island Ice Tea'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Margaritas'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Jack and Coke'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Red wine'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Oscar Martinez'
 topic: the-office

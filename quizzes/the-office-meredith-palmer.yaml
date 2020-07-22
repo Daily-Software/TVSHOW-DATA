@@ -2,28 +2,292 @@ id: the-office-meredith-palmer
 title: 'The Office Quiz - Meredith Palmer'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'What is Meredith alergic to?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Peanuts'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Cats'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Soy'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Dairy'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'How many times has Meredith been divorced?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Never been married'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Still married'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Once'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Twice'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What are Meredith''s kids names?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Frank and Wendy'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Jake and Mary'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Jake and Wendy'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Sean and Mary'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What is Meredith''s job?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Salesperson'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Office Adminstrator'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Customer Service'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Supplier Relations'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'During the Fire episode, which of these guys were not on Meredith''s "who would you do" list?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Jim'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Oscar'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Toby'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Michael'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What does MIchael do when Meredith removes her top after Christmas Party before they go to Poor Richards?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Run out'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Snap a photo'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Cover her up'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Give her a kiss'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'Who does Meredith hook up with on the Booze Cruise?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Captain Jack'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Michael Scott'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Todd Packer'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'One of the musicians'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'At the Benihana Chrismas party what alcohol drink does Meredith chose at Karen and Pam''s party?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Frozen margaritas'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Whiskey shots'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Beer'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Bottle of Vodka'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'Who hits Meredith with their car?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Stanley'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Andy'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Michael'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What company was the employee from that Meredith was sleeping with to receive discounts on supplies and Outback Steakhouse coupons?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Hammermill'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Staples'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Microsoft'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Prince Paper'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'Who does Meredith get headlice from?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Pam'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Angela'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Her kid'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'How does she take care of the headlice problem?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Shave her head'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Use peanut butter on her scalp'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Use mayo on her scalp'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Do nothing'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Meredith Palmer'
 topic: the-office

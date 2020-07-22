@@ -2,28 +2,292 @@ id: the-office-andy-bernard
 title: 'The Office Quiz - Andy Bernard'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Which of these are not nicknames of Andy Bernard?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Nard Dog and Nard Man'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Puke and Moon Face'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Iceman and Funny Guy'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Big Red and Corn Man'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Which university did Andy attend?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Harvard'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Yale'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Dartmouth'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Cornell'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Who did Andy not have a relationship with?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Jessica'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Rachel'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Kelly'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Erin'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What financial institution did Andy not work for before DM?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Lehman Brothers'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Bear Sterns'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Enron'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Wells Fargo'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What is both hired and fired Andy to Regional Manager?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael Scott'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Deangelo Vickers'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'David Wallace'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Robert California.'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What ailment does Andy suffer from?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Diabetes'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Irritable bowel syndrome'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Peanut allergy'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Allergic to cats'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'What NFL quarterback votes down Andy on "America's Next Great A Capella Star"?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Aaron Rodgers'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Peyton Manning'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Tom Brady'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Drew Breese'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'Who does Andy sail to the Bahamas with?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Erin'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'His father'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'His brother'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'No one'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'Jim is "Big Tuna" according to Andy, but who is "Big Turkey"?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Darryl'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Creed'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Ryan'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'As a result of Todd Packer''s cupcake prank, who does Andy spend the night with?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Kevin'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Darryl'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Meredith'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Angela'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'Who supports Andy during his industrial film debut?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Darryl'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Angela'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Erin'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Oscar'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'In the final episode, who avoids Andy at the Scranton airport?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Darryl'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Angela'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Erin'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Oscar'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Andy Bernard'
 topic: the-office

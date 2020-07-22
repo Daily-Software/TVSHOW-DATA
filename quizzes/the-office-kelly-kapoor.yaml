@@ -2,28 +2,292 @@ id: the-office-kelly-kapoor
 title: 'The Office Quiz - Kelly Kapoor'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Which of these are not a brand Kelly calls herself?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Business bitch'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Shopping bitch'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Etiquette bitch'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Paper bitch'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Kelly and Toby dressed as Skeletons one year for Halloween, who oeverheard and joined them?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Pete'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Ryan'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Gabe'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Who is Kelly''s date at Dwight and Angela''s wedding?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Ryan'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Andy'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Ravi'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'She didn''t bring one'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'In the Happy Hour episode, why is Kelly crying near the end of the show?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Wanted to play more games with Ryan'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'She didn''t get the prize she wanted'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Ryan left with someone else'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'She spilled her drink'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What is Kelly''s middle name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Rupa'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Neefa'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Tiffany'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Rajnigandha'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'Who did Kelly get for Secret Santa?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Oscar'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Jim'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Creed'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'What did she buy him for Secret Santa?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Shower Radio'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Shirt'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Office supplies'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Candles'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'What TV finale party did Kelly throw that Jim and Dwight didn''t attend?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Glee'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Lost'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'America''s Got Talent'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Battlestar Galactica'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'At the Michael roast, Kelly says she''d rather kiss this person then Michael?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Jim'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Oscar'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Creed'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What two gift options do Dwight and Jim give to Kelly for her birthday?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Hour of TV or a nap'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Cake or Pie'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Puppy or Kitten'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Dress or Skirt'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'On Casual Friday, who does Erin say Kelly looks like?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Jennifer Lopez'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Lady Gaga'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Hillary Swank'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Abecrombe model'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'In the Cafe Disco episode, who does Kelly have a dance off with?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Andy'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Erin'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Phyllis'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Kelly Kapoor'
 topic: the-office

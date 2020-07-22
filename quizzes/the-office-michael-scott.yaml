@@ -2,28 +2,292 @@ id: the-office-michael-scott
 title: 'The Office Quiz - Michael Scott'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'What are the annual awards called that Michael gives to members of the office?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Besties'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Scranton Awards'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Mifflins'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'Dundies'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What kind of sports jersey does Dwight buy Michael for his birthday?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Baseball'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Football'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Basketball'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Hockey'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What brand of cologne does JIm and Pam buy Michael for his birthday gift?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Old Spice'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Eternity'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Night Swept'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Day Break'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'Who does Michael marry?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Carol Stills'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Jan Levinson'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Helen Beesly'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Holly Flax'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What is Michael’s middle name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Alan'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Kurt'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Gary'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'Who does Michael hook up with at Jim and Pam’s wedding?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: '??? (Pam''s maid of honor)'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Helen (Pam''s mom)'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Meredith'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'No one'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'Who is Michael’s realtor?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Carol Stills'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Helen Beesly'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Phyllis'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'He bought his house on Ebay'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'According to Michael, what''s considered "the new golf course"?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Outback Steakhouse'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'IHOP'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Chili''s'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'The driving range'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'What is the best sub sandwich according to Michael?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Turkey and avocado'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Bologne and cheese'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Bologne, onions, and mustard'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Bologne, tomato, and ketchup'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What street did Michael grow up on?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Kenneth Road'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Main Street'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Woodland Road'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Parker Street'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'Who inadvertantly causes a “flagrant, personal, intentional foul” on Michael in the warehouse basketball game?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Jerry'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Madge'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Roy'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Darryl'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'What is Michael''s favorite song?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'For the Longest Time - Billy Joel'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'We didn''t start the fire - Billy Joel'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Fast Car - Tracy Chapman (Aka Bruce Springstein)'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'The Heart of Rock and Roll - Huey Louis (Aka Bruce Springstein)'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Michael Scott'
 topic: the-office

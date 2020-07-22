@@ -2,28 +2,292 @@ id: the-office-darryl-philbin
 title: 'The Office Quiz - Darryl Philbin'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'What is Darryl''s instrument of choice?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Drums'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Guitar'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Tamborine'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Synthesizer'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Who high fives Darryl when he shares he is a Presbyterian in the Fun Run episode?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Andy'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Phyllis'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Stanley'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Pam'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Who did Darryl date in the office?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Kelly and Erin'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Val and Erin'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Kelly and Val'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Only Val'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What is Darryl''s ex-wife name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Jada'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Janine'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Jolene'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Justine'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What is Darryl''s sister name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Gwen'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Gwenda'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Gyendalyn'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Gwyneth'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'How many kids does Darryl have?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'One'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Two'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Three'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'None'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'What is Darryl alergic to?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Soy'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Nuts'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Dairy products'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Energy drinks'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'In the Garage Sale episode, Darryl, Andy and Kevin play and bet on what board game?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Monopoly'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Chutes and Ladders'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Dallas'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Sorry'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'What manager sends Darryl to Business school, at night?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael Scott'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Andy Bernard'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Robert California'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Deangelo Vickers'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'After winning and losing their lottery money, what two warehouse workers does Darryl hire back?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Calvin and Hide'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Brandon and Calvin'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Roy and Hide'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Brandon and Hide'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'How much does Darryl charge Andy to play in his band?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: '$40/hour'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: '$50/hour'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: '$30/hour'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: '$25/hour'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'Who says, "Darryl Philbin is the most complicated man I have ever met."?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Kelly'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Dwight'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Jo'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Darryl Philbin'
 topic: the-office

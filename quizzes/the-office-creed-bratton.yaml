@@ -2,28 +2,292 @@ id: the-office-creed-bratton
 title: 'The Office Quiz - Creed Bratton'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'In the Chair Model episode, who''s chair is Creed suppose to inherit?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael''s'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Jim''s'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Dwight''s'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Pam''s'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Who claimed Creed sold them a tapeworm to lose weight?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Phyllis'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Nellie'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Kelly'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Erin'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'The thought of having Asthma is upsetting to Creed because it would prevent him from?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Living'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Working'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Performing Music'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Scuba diving'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'In Costume Contest, what does Creed dress up as?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Homeless man'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Prisoner'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Vampire'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Mummy'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'At Jim and Pam''s christening, who along with Creed falls asleep?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Darryl'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Oscar'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Nellie'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'In the Ultimatum episode, Creed''s New Year''s resolution if to?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Do a perfect cartwheel'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Get married'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Become manager'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Win the lottery'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'During Andy''s Small Bsuiness seminar, Creed gives a talk on?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Dracula'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Frankenstein'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Lock Ness Monster'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Bigfoot'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'In Search Committee episode, what acronym chart does Creed create?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'OFFICE'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'SALESMAN'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'BIZNESS'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'BOBBODY'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'During the List episode, by what name on the list does Robert refer to Creed as?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'old man'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'QA guy'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Creed'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Papa Smurf'
+                team_img: ''
+                detail: 'Better luck next time.'
+ -
+        text: 'Who is the actor that plays Creed Bratton?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Creed Bratton'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Creed Miller'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'William Charles Schneider'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Jeff Bomondo'
+                team_img: ''
+                detail: 'Not it.'
+ -
+        text: 'What is the fake web address Ryan sets up for Creed''s blog?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'www.creedthoughts.gov.www/creedthoughts'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'www.creedthoughts.com'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'www.creedthoughts.org.www/creedthoughts.gov'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'http.creedthoughts.gov.http/creedthoughts'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'What is the name of paper mill manager that Creed blamed for ?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Galdys Frail'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Marilyn Smith'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Martin Wheeler'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Debbie Brown'
+                team_img: ''
+                detail: 'You got it!'
 description: 'The Office Quiz - Creed Bratton'
 topic: the-office
