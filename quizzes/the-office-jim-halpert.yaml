@@ -2,28 +2,292 @@ id: the-office-jim-halpert
 title: 'The Office Quiz - Jim Halpert'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Who gave Jim the nickname "Big Tuna"?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Dwight'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Toby'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Andy'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What are Jim''s brothers names?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Pete and Clark'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Tom and Clark'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'John and Tom'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Tom and Pete'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Where does Jim book a trip to avoid Pam and Roy''s wedding?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'England'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Califonia'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Australia'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'New Zealand'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What type of cocktail does Michael make Jim at the convention?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Screwdriver'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Shot of Midori'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Gin and Tonic'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Cosmo'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What is the name of the purse girl Jim dates and takes on the Booze Cruise?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Kathy'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Kelly'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Kerry'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Katy.'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'Who refers to Jim as "the only man who ever turned me down"?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Katy'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Jo'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Nellie'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Jan'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'Which of these episodes is the only one in which does Jim not phsically appear?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Mafia'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Suit Warehouse'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Survivor Man'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'New Guys'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'Where did Jim propose to Pam?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'In the office'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'In the parking lot'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'At the gas station'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'At casino night'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'What manager does Jim get off to a rough start with while wearing a tuxedo?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Deangelo Vickers'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Robert California'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'David Wallace'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Charles Miner'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'In the Viewing Party episode, what food item does Jim feed Dwight?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Pepperoni pizza'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Ham and cheese sandwich'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Pigs in a blanket'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Hot dog'
+                team_img: ''
+                detail: 'Better luck next time.'
+    -
+        text: 'In the Costume Contest episode, what costume does Jim surprise Pam and dress in?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Popeye'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Batman'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Superman'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Spiderman'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What city do Jim and Pam move to after they are fired by Dwight?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Austin'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Dallas'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Houston'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'El Paso'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Jim Halpert'
 topic: the-office

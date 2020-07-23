@@ -2,28 +2,292 @@ id: the-office-pam-beesly
 title: 'The Office Quiz - Pam Beesly'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Which of these are not nicknames of Michael calls Pam?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Pamcasso'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Spamster'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Candied Pams'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Paminator'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What is the name of Pam''s grandmother?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Helene'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Penny'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Celeste'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Sylvia'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What is the name of the art institute Pam attends in NY?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Arthur'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Pratt'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Wellings'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Walters'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'Which of these positions did Pam not hold while at DM?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Office Adminstrator'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Sales Representative'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Secret Assistant to the Regional Manager'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Assistant Regional Manager'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'At the begining of the series Pam and Roy have been?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Dating for 2 and engaged for 1 year'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Dating for 4 and engaged for 1 year'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Dating for 6 and engaged for 2 years'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Dating for 8 and engaged for 3 years.'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'Finish this sentence of Pam''s, "I don''t think it''s many little girls'' dream to be a"?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Mother'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Receptionist'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Wife'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Paper salesman'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'After her breakup with Roy, Pam moves into hew own apartment and buys a?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Toyota Yaris'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Toyota Prias'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Honda Accord'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Honda Civic'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'Oscar makes a disparaging remark to Gil about Pam at her art exhibit by saying that this is not one of her strong points?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Creativity'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Charisma'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Courage'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Complexity'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'What does Pam like in/on her coffee?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Two sugars'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Three Splenda'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Whip cream'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Sprinkles with cinnamon'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'According to Jim, what is Pam''s favorite flavor of yogurt?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Mixed berry'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Strawberry'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Raspberry'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Lemon'
+                team_img: ''
+                detail: 'Better luck next time.'
+    -
+        text: 'In the Cocktails episode, which toy in the claw machine does Pam mention to Toby?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Yellow Duck'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'White Rabbit'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Pink Flamingo'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Orange Monkey'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What is the picture of Michael buys at Pam''s art show?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Dunder Mifflin building'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Bowl of fruit'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Her kids'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Her house'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Pam Beesly'
 topic: the-office

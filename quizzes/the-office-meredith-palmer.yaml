@@ -50,27 +50,27 @@ questions:
                 team_img: ''
                 detail: 'You got it!'
     -
-        text: 'What are Meredith''s kids names?'
+        text: 'What are Meredith''s son name?'
         question_img: ''
         options:
             -
                 correct: false
-                value: 'Frank and Wendy'
+                value: 'Frank'
                 team_img: ''
                 detail: 'Not it.'
             -
                 correct: false
-                value: 'Jake and Mary'
+                value: 'Adam'
                 team_img: ''
                 detail: 'Not it.'
             -
                 correct: true
-                value: 'Jake and Wendy'
+                value: 'Jake'
                 team_img: ''
                 detail: 'Woo hoo!'
             -
                 correct: false
-                value: 'Sean and Mary'
+                value: 'Sean'
                 team_img: ''
                 detail: 'Not it.'
     -
@@ -185,12 +185,12 @@ questions:
                 detail: 'Oh no.'
             -
                 correct: true
-                value: 'Beer'
+                value: 'Bottle of Vodka'
                 team_img: ''
                 detail: 'Right!'
             -
                 correct: false
-                value: 'Bottle of Vodka'
+                value: 'Beer'
                 team_img: ''
                 detail: 'Oh no.'
     -
@@ -241,7 +241,7 @@ questions:
                 value: 'Prince Paper'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
+    -
         text: 'Who does Meredith get headlice from?'
         question_img: ''
         options:
@@ -265,7 +265,7 @@ questions:
                 value: 'Her kid'
                 team_img: ''
                 detail: 'Not it.'
- -
+    -
         text: 'How does she take care of the headlice problem?'
         question_img: ''
         options:

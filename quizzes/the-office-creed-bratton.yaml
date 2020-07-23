@@ -217,7 +217,7 @@ questions:
                 value: 'Papa Smurf'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
+    -
         text: 'Who is the actor that plays Creed Bratton?'
         question_img: ''
         options:
@@ -241,32 +241,32 @@ questions:
                 value: 'Jeff Bomondo'
                 team_img: ''
                 detail: 'Not it.'
- -
-        text: 'What is the fake web address Ryan sets up for Creed''s blog?'
+    -
+        text: 'Who sets up a fake web blog for Creed?'
         question_img: ''
         options:
             -
                 correct: true
-                value: 'www.creedthoughts.gov.www/creedthoughts'
+                value: 'Ryan'
                 team_img: ''
                 detail: 'Way to go!'
             -
                 correct: false
-                value: 'www.creedthoughts.com'
+                value: 'Kelly'
                 team_img: ''
                 detail: 'Oh no.'
             -
                 correct: false
-                value: 'www.creedthoughts.org.www/creedthoughts.gov'
+                value: 'Oscar'
                 team_img: ''
                 detail: 'Oh no.'
             -
                 correct: false
-                value: 'http.creedthoughts.gov.http/creedthoughts'
+                value: 'Jim'
                 team_img: ''
                 detail: 'Oh no.'
     -
-        text: 'What is the name of paper mill manager that Creed blamed for ?'
+        text: 'What is the name of paper mill manager that Creed blamed for?'
         question_img: ''
         options:
             -

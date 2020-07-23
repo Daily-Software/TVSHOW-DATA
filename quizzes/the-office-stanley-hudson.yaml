@@ -2,28 +2,292 @@ id: the-office-stanley-hudson
 title: 'The Office Quiz - Stanley Hudson'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'What is the name of Stanley''s ex-wife?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Cynthia'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Lydia'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Melissa'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Teri'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What is Stanley''s puzzle book of choice?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Hidden words'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Mad Libs'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Sadoku'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Crossword'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What ailment does Stanley suffer from?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Scoliosis'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Irritable bowel syndrome'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Diabetes'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Eczema'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'Of these, which is Stanley''s favorite day?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Valentine''s Day'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Halloween'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Secretary''s Day'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Pretzel Day'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What gift has Stanley repeated given at weddings?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Oven mitts'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Mixing bowls'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Cash'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Toaster.'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'Who does Stanley say this line to -- "Boy, have you lost your mind, ''cause I''ll help you find it"?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Ryan'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Jim'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Dwight'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'When Stanley retires from DM where does he move to?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Florida City'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Miami'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Orlando'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Tallahassee'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'What specific event caused Stanley''s mild heart attack?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Bat in the office'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'His divorce'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Dwight''s fire drill'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Tough sales call'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'What manager tries to lure Stanley away from Scranton?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Josh Porter'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'David Wallace'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Jan Levinson'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Karen Fillapelli'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'Who does Stanley kick out of line on Prezel Day with Michael?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Phyllis'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Pam'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Kelly'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Better luck next time.'
+    -
+        text: 'What is Stanley''s drink of choice after work?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Red wine'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Beer'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Gin and tonic'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Vodka and soda'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'Who is seen washing up with Stanley after the basketball game?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Ryan'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Dwight'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Stanley Hudson'
 topic: the-office

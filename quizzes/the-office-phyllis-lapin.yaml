@@ -7,7 +7,7 @@ questions:
         options:
             -
                 correct: false
-                value: '???'
+                value: 'Danny Quadray'
                 team_img: ''
                 detail: 'Not it.'
             -
@@ -74,7 +74,7 @@ questions:
                 team_img: ''
                 detail: 'Not it.'
     -
-        text: 'Phyllis'' most frequently worn color?'
+        text: 'WHat is Phyllis'' most frequently worn color?'
         question_img: ''
         options:
             -
@@ -241,7 +241,7 @@ questions:
                 value: 'Bob''s wife'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
+    -
         text: 'What gift does Phyllis make for Secret Santa?'
         question_img: ''
         options:
@@ -265,7 +265,7 @@ questions:
                 value: 'Napkin holder'
                 team_img: ''
                 detail: 'Not it.'
- -
+    -
         text: 'What famous person is Phyllis sent down to the Steamtown mall to get for the commercial?'
         question_img: ''
         options:

@@ -126,12 +126,12 @@ questions:
         question_img: ''
         options:
             -
-                correct: false
+                correct: true
                 value: 'One'
                 team_img: ''
                 detail: 'Keep trying.'
             -
-                correct: true
+                correct: false
                 value: 'Two'
                 team_img: ''
                 detail: 'Well done!'
@@ -241,7 +241,7 @@ questions:
                 value: 'Brandon and Hide'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
+    -
         text: 'How much does Darryl charge Andy to play in his band?'
         question_img: ''
         options:
@@ -265,7 +265,7 @@ questions:
                 value: '$25/hour'
                 team_img: ''
                 detail: 'Not it.'
- -
+    -
         text: 'Who says, "Darryl Philbin is the most complicated man I have ever met."?'
         question_img: ''
         options:

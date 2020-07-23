@@ -1,29 +1,293 @@
 id: the-office-toby-fenderono
-title: 'The Office Quiz - Toby Fenderono'
+title: 'The Office Quiz - Toby Flenderson'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'What is Toby''s daughter name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Susan'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Samantha'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Sally'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Sasha'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What is Toby''s brother name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Ron'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Luke'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Larry'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Rory'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Who dressed up as Toby for Halloween?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Erin'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Pam'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Nellie'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Phyllis'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What fictional salesman did Toby stand in for to cover Jim and Dwight?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael Scarn'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Chuck Sterns'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Sam Smith'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Lloyd Gross'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'Where did Toby get his master''s degree in social work?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Cornell'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Stanford'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'UConn'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Temple.'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'In Costa Rica, Toby breaks his neck the third day in doing what?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Bungee jumping'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Zip-lining'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'ATVing'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Sky diving'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'In the Casual Friday episode, what sports club does toby mention he participates in?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Volleyball'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Basketball'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Raquetball'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Tennis'
                 team_img: ''
-                detail: 'Incomplete pass.'
-description: 'The Office Quiz - Toby Fenderono'
+                detail: 'Better luck next time.'
+    -
+        text: 'In that same episode (Casual Friday), who does Toby offer his socks to wear?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Andy'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Kevin'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Oscar'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Dwight'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'In the Frame Toby episode, what actual substance does Michael buy from Vance Refrigeration workers?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Oregano'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Parsley'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Pesto'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Caprese Salad'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What vegatable is Toby allergic to?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Mushrooms'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Spinach'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Onions'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Carrots'
+                team_img: ''
+                detail: 'Better luck next time.'
+    -
+        text: 'What is Toby''s wife name, after re-marrrying?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Cathy Becker'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Cathy Barker'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Cathy Baker'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Cathy Brewer'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'Toby graduated from Bishop O''Hara, who else attended that school?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Katy Moore'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Nate Nickerson'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Tony Gardner'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Clark Green'
+                team_img: ''
+                detail: 'Oh no.'
+description: 'The Office Quiz - Toby Flenderson'
 topic: the-office

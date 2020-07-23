@@ -12,7 +12,7 @@ const quizzes = [
     'the-office-dwight-schrute',
     'the-office-jim-halpert',
     'the-office-pam-beesly',
-    'the-office-Rryan-howard',
+    'the-office-ryan-howard',
     'the-office-andy-bernard',
     'the-office-stanley-hudson',
     'the-office-kevin-malone',

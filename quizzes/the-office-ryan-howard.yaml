@@ -2,28 +2,292 @@ id: the-office-ryan-howard
 title: 'The Office Quiz - Ryan Howard'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Which of these are not a nickname of Ryan Howard?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Fire guy'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'FIred guy'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Hired guy'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Wired guy'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Which bowling alley did Ryan work at?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Canoga Bowl'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Scranton Lanes'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Yellow Brick Bowl'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Idle Hour Lanes'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What position did Ryan not hold at work?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Temp at Sabre'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Salesman at Michael Scott Paper Co'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Regional Sales Manager, Scranton at Dunder Mifflin'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'CEO of WUPHF.com'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What financial institution did Andy not work for before DM?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Lehman Brothers'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Bear Sterns'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Enron'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Wells Fargo'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What manager moved Ryan to the storage closet?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Andy'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Dwight'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Jim.'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'By what name does Mrs. California refer to Ryan?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Temp'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Bryan'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'New guy'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Jim'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'What Halooween costume does Ryan not wear in any episode?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Chandler Bing from Friends'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Jesse Pinkman from Breaking Bad'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Gordon Gekko from Wall Street'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Justin Beiber (musician)'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'In the Garage Sale episode what items do Ryan and Dwight trade?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Pesto Sauce for umbrella'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Salsa for photo album'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Pesto Sauce for photo album'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Salsa for umbrella'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'For the DM Infinity site what tech gift does Ryan give to the main employees?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Iphone'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'ipod'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Camera'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Blackberry'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What city does Ryan move to in pursuit of Kelly?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Miami, Ohio'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Miami, Florida'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Columbus, Ohio'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Orlando, Florida'
+                team_img: ''
+                detail: 'Better luck next time.'
+    -
+        text: 'What is Ryan''s son named?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Drake'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Darryl'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'David'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Drew'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What drink does Ryan order for Kelly at Casino Night?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: '7 and 7 with extra marachino cheeries'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Seabreeze with 2 limes'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'White wine spritzer'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Frozen strawberry margarita'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Ryan Howard'
 topic: the-office

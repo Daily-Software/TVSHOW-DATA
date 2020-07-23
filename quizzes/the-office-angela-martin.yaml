@@ -241,7 +241,7 @@ questions:
                 value: 'Andy'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
+    -
         text: 'Who made Angela wear a hair net?'
         question_img: ''
         options:
@@ -265,7 +265,7 @@ questions:
                 value: 'Pam'
                 team_img: ''
                 detail: 'Not it.'
- -
+    -
         text: 'In the Convention episode, under what name does Angela check into the hotel?'
         question_img: ''
         options:

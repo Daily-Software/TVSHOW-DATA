@@ -7,7 +7,7 @@ questions:
         options:
             -
                 correct: false
-                value: 'Nard Dog and Nard Man'
+                value: 'Nard Dog and Drew'
                 team_img: ''
                 detail: 'Not it.'
             -
@@ -50,27 +50,27 @@ questions:
                 team_img: ''
                 detail: 'You got it!'
     -
-        text: 'Who did Andy not have a relationship with?'
+        text: 'What was Andy''s a cappella group called?'
         question_img: ''
         options:
             -
                 correct: false
-                value: 'Jessica'
+                value: 'Doe Rey Me Tones'
                 team_img: ''
                 detail: 'Not it.'
             -
                 correct: false
-                value: 'Rachel'
+                value: 'Falsettos'
                 team_img: ''
                 detail: 'Not it.'
             -
                 correct: true
-                value: 'Kelly'
+                value: 'Here Comes Treble'
                 team_img: ''
                 detail: 'Woo hoo!'
             -
                 correct: false
-                value: 'Erin'
+                value: 'Cornellers'
                 team_img: ''
                 detail: 'Not it.'
     -
@@ -98,7 +98,7 @@ questions:
                 team_img: ''
                 detail: 'Correct!'
     -
-        text: 'What is both hired and fired Andy to Regional Manager?'
+        text: 'Who both hired and fired Andy as Regional Manager?'
         question_img: ''
         options:
             -
@@ -146,7 +146,7 @@ questions:
                 team_img: ''
                 detail: 'Keep trying.'
     -
-        text: 'What NFL quarterback votes down Andy on "America's Next Great A Capella Star"?'
+        text: 'What NFL quarterback votes down Andy on "America''s Next Great A Capella Star"?'
         question_img: ''
         options:
             -
@@ -241,7 +241,7 @@ questions:
                 value: 'Angela'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
+    -
         text: 'Who supports Andy during his industrial film debut?'
         question_img: ''
         options:
@@ -265,7 +265,7 @@ questions:
                 value: 'Oscar'
                 team_img: ''
                 detail: 'Not it.'
- -
+    -
         text: 'In the final episode, who avoids Andy at the Scranton airport?'
         question_img: ''
         options:

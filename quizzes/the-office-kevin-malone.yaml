@@ -2,28 +2,292 @@ id: the-office-kevin-malone
 title: 'The Office Quiz - Kevin Malone'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'Which of these are not nicknames of Kevin Malone?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Cookie monster'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Kool-aid man'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Dumpster man'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Bigfoot'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'How long did Kevin hold the title of DM Regional Manager?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Never'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: '1 week'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: '1 day'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'i hour'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What is the name of Kevin''s band?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Doobiers'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Rockabillies'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Scrantonicity'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Muskateers'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'Who does Kevin lose the poker tournament to in Casino Night?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Toby'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Jim'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Pam'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Phyllis'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What candy bar cause Kevin to break the silence?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Milky Way'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: '3 Muskateers'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Butterfinger'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Snickers.'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What ailment does Kevin suffer from?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Diabetes'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Plantar hyperhidrosis'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Irritable bowel syndrome'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Allergic to cats'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'What is the name of the game Kevin plays with Oscar?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Hateball'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Paper flick'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Paperball'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Dunderball'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'Why does Kevin choose Angela''s Christmas party over Karen and Pam''s?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Rice Crispy treats'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Her famous chocolate chip cookies'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Double fudge brownies'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Her famous hot chocolate'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'What does Kevin sometimes hide under his desk?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Magazines'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Office supplies'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Cookies'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Candy'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'Who does Kevin call a meeting of the Five Families with to resolve parking issues?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Andy'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Stanley'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Meredith'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Angela'
+                team_img: ''
+                detail: 'Better luck next time.'
+    -
+        text: 'What piece of office equipment did Kevin get stolen in Crime Aid episode?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Surge protector'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Phone'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Monitor'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Computer'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'What kind of car does Kevin drive?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Honda CR-V'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Honda Civic Hatchback'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Toyota Yaris'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Toyota Prius'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Kevin Malone'
 topic: the-office

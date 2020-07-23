@@ -26,7 +26,7 @@ questions:
                 team_img: ''
                 detail: 'You got it!'
     -
-        text: 'Kelly and Toby dressed as Skeletons one year for Halloween, who oeverheard and joined them?'
+        text: 'Kelly and Toby dressed as Skeletons one year for Halloween, who overheard and joined them?'
         question_img: ''
         options:
             -
@@ -122,7 +122,7 @@ questions:
                 team_img: ''
                 detail: 'Correct!'
     -
-        text: 'Who did Kelly get for Secret Santa?'
+        text: 'Who did Kelly buy a gift for Secret Santa?'
         question_img: ''
         options:
             -
@@ -218,31 +218,31 @@ questions:
                 team_img: ''
                 detail: 'Correct!'
     -
-        text: 'What two gift options do Dwight and Jim give to Kelly for her birthday?'
+        text: 'Who does Kelly talk into having a fashion show at lunch?'
         question_img: ''
         options:
             -
                 correct: true
-                value: 'Hour of TV or a nap'
+                value: 'Pam'
                 team_img: ''
                 detail: 'That''s it!'
             -
                 correct: false
-                value: 'Cake or Pie'
+                value: 'Phyllis'
                 team_img: ''
                 detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'Puppy or Kitten'
+                value: 'Erin'
                 team_img: ''
                 detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'Dress or Skirt'
+                value: 'Jan'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
-        text: 'On Casual Friday, who does Erin say Kelly looks like?'
+    -
+        text: 'In the Casual Friday episode, who does Erin say Kelly looks like?'
         question_img: ''
         options:
             -
@@ -265,7 +265,7 @@ questions:
                 value: 'Abecrombe model'
                 team_img: ''
                 detail: 'Not it.'
- -
+    -
         text: 'In the Cafe Disco episode, who does Kelly have a dance off with?'
         question_img: ''
         options:

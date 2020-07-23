@@ -50,7 +50,7 @@ questions:
                 team_img: ''
                 detail: 'You got it!'
     -
-        text: 'Which is not a nicename for Oscar?'
+        text: 'Which is not a nickname for Oscar?'
         question_img: ''
         options:
             -
@@ -70,7 +70,7 @@ questions:
                 detail: 'Woo hoo!'
             -
                 correct: false
-                value: 'Actually'
+                value: 'Oscar Mayer Weiner Lover'
                 team_img: ''
                 detail: 'Not it.'
     -
@@ -127,7 +127,7 @@ questions:
         options:
             -
                 correct: false
-                value: 'Shirt'
+                value: 'Gift card'
                 team_img: ''
                 detail: 'Keep trying.'
             -
@@ -142,7 +142,7 @@ questions:
                 detail: 'Keep trying.'
             -
                 correct: false
-                value: 'Candles'
+                value: 'Scented candles'
                 team_img: ''
                 detail: 'Keep trying.'
     -
@@ -199,12 +199,12 @@ questions:
         options:
             -
                 correct: false
-                value: 'When Michael is showing Katy, the purse salesperson, around'
+                value: 'When Michael is introducing Katy, the purse salesperson'
                 team_img: ''
                 detail: 'Try again.'
             -
                 correct: false
-                value: 'When the fire alarm rings for the cheezy pita'
+                value: 'When the fire alarm rings for the burnt cheezy pita'
                 team_img: ''
                 detail: 'Try again.'
             -
@@ -218,7 +218,7 @@ questions:
                 team_img: ''
                 detail: 'Correct!'
     -
-        text: 'When Oscar inserts himself into conversations, his favorite choice of word is?'
+        text: 'When Oscar inserts himself into conversations, his favorite word of choice is?'
         question_img: ''
         options:
             -
@@ -241,7 +241,7 @@ questions:
                 value: 'Surprisingly'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
+    -
         text: 'Who does Oscar have a crush on at work?'
         question_img: ''
         options:
@@ -265,8 +265,8 @@ questions:
                 value: 'Calvin'
                 team_img: ''
                 detail: 'Not it.'
- -
-        text: 'On the business trip, what type of drink does Andy and Oscar get drunk on?'
+    -
+        text: 'On the international business trip, what type of drink does Andy and Oscar get drunk on?'
         question_img: ''
         options:
             -

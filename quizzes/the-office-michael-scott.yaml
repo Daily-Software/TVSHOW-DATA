@@ -241,7 +241,7 @@ questions:
                 value: 'Parker Street'
                 team_img: ''
                 detail: 'Better luck next time.'
- -
+    -
         text: 'Who inadvertantly causes a “flagrant, personal, intentional foul” on Michael in the warehouse basketball game?'
         question_img: ''
         options:
@@ -265,7 +265,7 @@ questions:
                 value: 'Darryl'
                 team_img: ''
                 detail: 'Not it.'
- -
+    -
         text: 'What is Michael''s favorite song?'
         question_img: ''
         options:

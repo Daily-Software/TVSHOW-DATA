@@ -2,28 +2,292 @@ id: the-office-dwight-schrute
 title: 'The Office Quiz - Dwight Schrute'
 questions:
     -
-        text: 'Question goes here'
-        question_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png'
+        text: 'What is Dwight''s middle name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'David'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Alan'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Kurt'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'What is Dwight''s brothers name?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Zeke'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Mose'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Cameron'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Jeb'
+                team_img: ''
+                detail: 'You got it!'
+    -
+        text: 'Who did Dwight not have a relationship with?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Angela'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Esther'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: true
+                value: 'Erin'
+                team_img: ''
+                detail: 'Woo hoo!'
+            -
+                correct: false
+                value: 'Isabel'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'In the Halloween episode, JIm uploaded Dwight''s rerume to all but which site?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Monster.com'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Craigslist'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Google'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'LinkedIn'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'In the Night Out episode, Dwight makes out with a woman from what kind of sports team?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Softball'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Soccer'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Volleyball'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Basketball.'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What type of vehicle does Dwight buy from Andy?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Ford F-150'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Nissan X-Terra'
+                team_img: ''
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'GMC Denali'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Chevy Malibu'
+                team_img: ''
+                detail: 'Keep trying.'
+    -
+        text: 'What room in Pam and Jim''s house does Dwight refurbish?'
+        question_img: ''
         options:
             -
                 correct: true
-                value: 'NFL Chicago Bears'
+                value: 'Kitchen'
                 team_img: ''
-                detail: 'First down!'
+                detail: 'Excellent!'
             -
                 correct: false
-                value: 'NFL New England Patriots'
+                value: 'Bathroom'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Los Angeles Chargers'
+                value: 'Bedroom'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
+                value: 'Garage'
                 team_img: ''
-                detail: 'Incomplete pass.'
+                detail: 'Better luck next time.'
+    -
+        text: 'Who do Jim and Dwight team up to send to Tallahassee?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Danny Quadray'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Tony Gardner'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Todd Packer'
+                team_img: ''
+                detail: 'Right!'
+            -
+                correct: false
+                value: 'Robert California'
+                team_img: ''
+                detail: 'Oh no.'
+    -
+        text: 'What salesman does Dwight not team up with?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Clark'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Ryan'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Jim'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Stanley'
+                team_img: ''
+                detail: 'Correct!'
+    -
+        text: 'What is the name of food truck driver Dwight brings in to catch Jim in a lie about jury duty?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Ernesto'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Antonio'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Jesus'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Rodrigo'
+                team_img: ''
+                detail: 'Better luck next time.'
+    -
+        text: 'What of Angela''s is Dwight holding when Jim finds him anguishing over their breakup at Schrute Farms?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Her cherub figurine'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Her blanket'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Her Sweater'
+                team_img: ''
+                detail: 'Not it.'
+            -
+                correct: false
+                value: 'Her cat''s collar'
+                team_img: ''
+                detail: 'Not it.'
+    -
+        text: 'Who is Dwight''s bestest mench?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Jim'
+                team_img: ''
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Michael'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Mose'
+                team_img: ''
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Dwight'
+                team_img: ''
+                detail: 'Oh no.'
 description: 'The Office Quiz - Dwight Schrute'
 topic: the-office

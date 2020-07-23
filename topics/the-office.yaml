@@ -99,4 +99,4 @@ id: the-office
 img: 'the-office.png'
 img_large: 'the-office.png'
 title: 'The Office Quiz'
-game_type: 'text'
+game_type: 'text-only'
