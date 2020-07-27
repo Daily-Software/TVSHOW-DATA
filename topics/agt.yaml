@@ -1,0 +1,12 @@
+quizzes:
+    -
+        title: 'America's Got Talent' 
+        description: 'America's Got Talent'
+        id: agt-trivia
+        img: 'https://io-daily-software-cdn.web.app/tvquizapp/the-office-michael-scott.png'
+        order: 1
+id: agt
+img: 'agt.png'
+img_large: 'agt.png'
+title: 'America's Got Talent'
+game_type: 'text-only'

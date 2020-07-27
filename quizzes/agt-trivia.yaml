@@ -1,0 +1,571 @@
+id: agt-trivia
+title: 'America''s Got Talent Trivia'
+questions:
+    -
+        text: 'Howie is one of the original judges, dating back to season 1?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'True'
+                team_img: ''
+                detail: 'Fist bump!'
+            -
+                correct: false
+                value: 'False'
+                team_img: ''
+                detail: 'Nope.'
+    -
+        text: 'Howie’s middle name is?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Elbow bump'
+                team_img: ''
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Charlie'
+                team_img: ''
+                detail: 'Sorry Charlie.'
+            -
+                correct: false
+                value: 'Jose'
+                team_img: ''
+                detail: 'No way Jose.'
+            -
+                correct: false
+                value: 'Jack'
+                team_img: ''
+                detail: 'Jump back, Jack.'
+    -
+        text: 'Who was the AGT host for seasons 4 – 11?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Not quite right.'
+            -
+                correct: false
+                value: 'Terry Crews'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Nick Cannon'
+                team_img: ''
+                detail: 'Yes!'
+            -
+                correct: false
+                value: 'Simon Cowell'
+                team_img: ''
+                detail: 'Naw.'
+    -
+        text: 'Who has body parts insured for $2.2 million?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Terry Crews'
+                team_img: ''
+                detail: 'Good try, but no.'
+            -
+                correct: true
+                value: 'Heidi Klum'
+                team_img: ''
+                detail: 'Work it, Girl!'
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Close, but no.'
+            -
+                correct: false
+                value: 'Julianne Hough'
+                team_img: ''
+                detail: 'No luck.'
+    -
+        text: 'What judge is married to an NBA player?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'No, no, no.'
+            -
+                correct: false
+                value: 'Heidi Klum'
+                team_img: ''
+                detail: 'For real, no.'
+            -
+                correct: false
+                value: 'Mel B'
+                team_img: ''
+                detail: 'No way.'
+            -
+                correct: true
+                value: 'Gabrielle Union.'
+                team_img: ''
+                detail: 'Swish!'
+    -
+        text: 'Who starred as T.T. in the movie Madea Goes To Jail?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Roll the dice again.'
+            -
+                correct: true
+                value: 'Sophia Vergara'
+                team_img: ''
+                detail: 'No surprise, it''s Sophia!'
+            -
+                correct: false
+                value: 'Alesha Dixon'
+                team_img: ''
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Brandy Norwood'
+                team_img: ''
+                detail: 'No, boo.'
+    -
+        text: 'Who was on So You Think You Can Dance?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Julianne Hough'
+                team_img: ''
+                detail: 'You go, girl!'
+            -
+                correct: false
+                value: 'Nick Cannon'
+                team_img: ''
+                detail: 'No happy feet here.'
+            -
+                correct: false
+                value: 'Mel B'
+                team_img: ''
+                detail: 'Curtain call.'
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Hang up your dancing shoes.'
+    -
+        text: 'Which judge is a host on the TV show The Talk?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Sorry sweetheart.'
+            -
+                correct: false
+                value: 'Heidi Klum'
+                team_img: ''
+                detail: 'Girl, bye.'
+            -
+                correct: true
+                value: 'Sharon Osbourne'
+                team_img: ''
+                detail: 'Yes, Darling!'
+            -
+                correct: false
+                value: 'Brandy Norwood'
+                team_img: ''
+                detail: 'Oh no she didn''t.'
+    -
+        text: 'Who sported a swimsuit in the movie Baywatch?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Heidi Klum'
+                team_img: ''
+                detail: 'Back to the beach.'
+            -
+                correct: false
+                value: 'Jullianne Hough'
+                team_img: ''
+                detail: 'Sand in your sandwich.'
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Belly flop.'
+            -
+                correct: true
+                value: 'David Hasselhoff'
+                team_img: ''
+                detail: 'The Hoff!'
+    -
+        text: 'Which judge was not on season 1?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Sharon Osbourne'
+                team_img: ''
+                detail: 'That''s it!'
+            -
+                correct: false
+                value: 'Piers Morgan'
+                team_img: ''
+                detail: 'Study up.'
+            -
+                correct: false
+                value: 'Brandy Norwood'
+                team_img: ''
+                detail: 'You don''t remember?'
+            -
+                correct: false
+                value: 'David Hasselhoff'
+                team_img: ''
+                detail: 'Wrong.'
+    -
+        text: 'Who was the host of season 1?'
+        question_img: ''
+        options:
+            -
+                correct: False
+                value: 'Tom Bergeron'
+                team_img: ''
+                detail: 'Not I, said the fly.'
+            -
+                correct: true
+                value: 'Regis Philbin'
+                team_img: ''
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Jerry Springer'
+                team_img: ''
+                detail: 'Whatcha talking about.'
+            -
+                correct: false
+                value: 'Nick Cannon'
+                team_img: ''
+                detail: 'Ya killin'' me Larry.'
+    -
+        text: 'Which judge was Scary Spice in the Spice Girls singing group?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Mel B'
+                team_img: ''
+                detail: 'Grrrrr!'
+            -
+                correct: false
+                value: 'Brandy Norwood'
+                team_img: ''
+                detail: 'Really?'
+            -
+                correct: false
+                value: 'Alesha Dixon'
+                team_img: ''
+                detail: 'Think again.'
+            -
+                correct: false
+                value: 'Heidi Klum'
+                team_img: ''
+                detail: 'Let''s go back.'
+    -
+        text: 'One of her Baby Daddy is Eddie Murphy?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Not her.'
+            -
+                correct: false
+                value: 'Gabrielle Union'
+                team_img: ''
+                detail: 'Nope.'
+            -
+                correct: true
+                value: 'Mel B'
+                team_img: ''
+                detail: 'Oooh child!'
+            -
+                correct: false
+                value: 'Sophia Vergara'
+                team_img: ''
+                detail: 'Try again.'
+    -
+        text: 'Who was a member of the singing group Mis-Teeq?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Alesha Dixon'
+                team_img: ''
+                detail: 'Oh yes!.'
+            -
+                correct: false
+                value: 'Mel B'
+                team_img: ''
+                detail: 'No, no, no, no, no.'
+            -
+                correct: false
+                value: 'Nick Cannon'
+                team_img: ''
+                detail: 'I''m not having it.'
+            -
+                correct: false
+                value: 'Brandy Norwood'
+                team_img: ''
+                detail: 'Come on now.'
+    -
+        text: 'Who had a role in the movie White Chicks?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Heidi Klum'
+                team_img: ''
+                detail: 'Are you kidding me?'
+            -
+                correct: false
+                value: 'Paula Abdul'
+                team_img: ''
+                detail: 'For real?'
+            -
+                correct: true
+                value: 'Terry Crews'
+                team_img: ''
+                detail: 'Two-pec Terry!'
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'OMG, no.'
+    -
+        text: 'Who hosted the show Project Runway?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Say again.'
+            -
+                correct: true
+                value: 'Heidi Klum'
+                team_img: ''
+                detail: 'She''s working it!'
+            -
+                correct: false
+                value: 'Mel B'
+                team_img: ''
+                detail: 'Step up.'
+            -
+                correct: false
+                value: 'Gabrielle Union'
+                team_img: ''
+                detail: 'Reverse it.'
+    -
+        text: 'Simon Cowell’s adorable son’s name is?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'SImon Jr.'
+                team_img: ''
+                detail: 'No.'
+            -
+                correct: false
+                value: 'Keith'
+                team_img: ''
+                detail: 'Not right.'
+            -
+                correct: false
+                value: 'David'
+                team_img: ''
+                detail: 'Not a good fit.'
+            -
+                correct: true
+                value: 'Eric.'
+                team_img: ''
+                detail: 'Awww, right!'
+    -
+        text: 'Who plays the flute?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Howie Mandell'
+                team_img: ''
+                detail: 'Play it again, Sam.'
+            -
+                correct: true
+                value: 'Terry Crews'
+                team_img: ''
+                detail: 'That''s right!'
+            -
+                correct: false
+                value: 'Heidi Klum'
+                team_img: ''
+                detail: 'Replay.'
+            -
+                correct: false
+                value: 'Mel B'
+                team_img: ''
+                detail: 'Ring again.'
+    -
+        text: 'Kodi Lee, season 14 winner, received a golden buzzer from?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Gabrielle Union'
+                team_img: ''
+                detail: 'Kodi is king!'
+            -
+                correct: false
+                value: 'Simon Cowell'
+                team_img: ''
+                detail: 'X.'
+            -
+                correct: false
+                value: 'Howie Mandell'
+                team_img: ''
+                detail: 'Naw.'
+            -
+                correct: false
+                value: 'Julianne Hough'
+                team_img: ''
+                detail: 'Close but no cigar.'
+    -
+        text: '10-year old opera singer, Emanne Beasha, received her golden buzzer from?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Terry Crews'
+                team_img: ''
+                detail: 'No.'
+            -
+                correct: false
+                value: 'Howard Stern'
+                team_img: ''
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Jay Leno'
+                team_img: ''
+                detail: 'What an ear!'
+            -
+                correct: false
+                value: 'Julianne Hough'
+                team_img: ''
+                detail: 'Think again, my friend.'
+    -
+        text: 'AGT season 13 winner, Shin Lim, is a?'
+        question_img: ''
+        options:
+            -
+                correct: false
+                value: 'Singer'
+                team_img: ''
+                detail: 'Poof.'
+            -
+                correct: false
+                value: 'Comedian'
+                team_img: ''
+                detail: 'Draw another card.'
+            -
+                correct: false
+                value: 'Dancer'
+                team_img: ''
+                detail: 'Stand up again.'
+            -
+                correct: true
+                value: 'Magician'
+                team_img: ''
+                detail: 'Ta-da!'
+    -
+        text: 'Who has a set of twin children?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Nick Cannon'
+                team_img: ''
+                detail: 'Go, baby!'
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Good guess.'
+            -
+                correct: false
+                value: 'Brandy Norwood'
+                team_img: ''
+                detail: 'Oops'
+            -
+                correct: false
+                value: 'Gabrielle Union'
+                team_img: ''
+                detail: 'Guess again.'
+    -
+        text: 'Which judge starred on the TV show Moesha?'
+        question_img: ''
+        options:
+            -
+                correct: False
+                value: 'Mel B'
+                team_img: ''
+                detail: 'One more try.'
+            -
+                correct: true
+                value: 'Brandy Norwood'
+                team_img: ''
+                detail: 'You got it!'
+            -
+                correct: false
+                value: 'Tyra Banks'
+                team_img: ''
+                detail: 'Not quite.'
+            -
+                correct: false
+                value: 'Gabrielle Union'
+                team_img: ''
+                detail: 'Give it a chance.'
+    -
+        text: 'Which judge starred as a reporter in the TV show Being Mary Jane?'
+        question_img: ''
+        options:
+            -
+                correct: true
+                value: 'Gabrielle Union'
+                team_img: ''
+                detail: 'She ready!'
+            -
+                correct: false
+                value: 'Brandy Norwood'
+                team_img: ''
+                detail: 'Really?'
+            -
+                correct: false
+                value: 'Mel B'
+                team_img: ''
+                detail: 'Ugh, no.'
+            -
+                correct: false
+                value: 'Julliane Hough'
+                team_img: ''
+                detail: 'X.'
+description: 'America''s Got Talent Trivia'
+topic: agt-trivia
